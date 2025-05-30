@@ -24,7 +24,6 @@ skinparam {
 }
 
 package "Notes" {
-    class "test 4" as test4
     class "Logseq" as logseq
     package "Dropbox (Obsidian)" as dropbox{
         class "SVG" as svg
