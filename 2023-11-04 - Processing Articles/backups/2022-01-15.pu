@@ -1,0 +1,78 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+    
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "Chrome" as chrome {
+
+}
+
+class "Feedly" as feedly {
+
+}
+
+class "FeedMe" as feedme {
+
+}
+
+class "YouTube" as youtube {
+
+}
+
+class "Twitter" as twitter {
+
+}
+
+class "Dynalist" as dynalist {
+
+}
+
+class "Pocket" as pocket {
+
+}
+
+class "Instapaper" as instapaper {
+
+}
+
+class "Google Keep" as googlekeep {
+
+}
+
+class "Yahoo! ニュース" as yahoonews {
+
+}
+
+class "NHK NEWS" as hnknews {
+    
+}
+
+chrome --> googlekeep : スマホ
+chrome --> pocket
+chrome --> dynalist
+feedly --> feedme
+feedme --> pocket
+feedme --> instapaper
+pocket --> dynalist
+youtube --> dynalist
+twitter --> dynalist
+googlekeep --> dynalist
+
+@enduml

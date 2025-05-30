@@ -1,0 +1,310 @@
+<mxfile host="65bd71144e">
+    <diagram id="vo5zmCqcgxIFknn6DyB2" name="ページ1">
+        <mxGraphModel dx="1631" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="111" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontSize=11;fontColor=#000000;curved=1;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="26" target="36">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1170" y="670" as="sourcePoint"/>
+                        <mxPoint x="1220" y="620" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1200" y="700"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="106" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="635" width="720" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=default;fontSize=11;fontColor=#000000;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="315" y="635" width="720" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="・射精機能と精子の質の維持" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="320" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="・精漿の浪費と生成量の増加&lt;br&gt;　→しっかり補給しないと栄養不足になる" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="320" width="230" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;labelBackgroundColor=default;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="510" y="555" as="sourcePoint"/>
+                        <mxPoint x="580.7106781186548" y="505" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="・早漏の対策（逆に早漏になる可能性もあるので注意）" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="360" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="・前立腺がんへの予防" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="400" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="・リラックス効果&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%89%8D%E7%AB%8B%E8%85%BA%E3%81%8C%E3%82%93%E3%81%B8%E3%81%AE%E4%BA%88%E9%98%B2%22%20style%3D%22text%3BstrokeColor%3Dnone%3Balign%3Dleft%3BfillColor%3Dnone%3Bhtml%3D1%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2280%22%20y%3D%22240%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="440" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="・楽しみの一つになる" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="520" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="・睡眠時間の増加" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="480" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="・精漿の浪費をしないで済む&lt;br&gt;　→体の栄養の不足を防ぐことができる" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="680" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;fontStyle=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="4" target="13">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="940" y="339.5" as="sourcePoint"/>
+                        <mxPoint x="1190" y="339.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1080" y="520"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="・プロラクチンの分泌（俗に言う賢者タイムの罪悪感等による悪影響）&lt;br style=&quot;font-size: 11px;&quot;&gt;　→質が高ければ満足感が勝るので必ずではない" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="360" width="280" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="・プロラクチンの分泌を抑制できる" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="720" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="16" target="17">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1020" y="440" as="sourcePoint"/>
+                        <mxPoint x="1070" y="390" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1150" y="590"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="・ポルノ視聴によるドーパミンの過剰分泌&lt;br&gt;　→ポルノ依存の可能性&lt;br&gt;　→性癖の歪曲" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="420" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="・テストステロンの減少" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="480" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="・時間の消費" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="600" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="・睡眠時間の増加" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="560" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;shape=link;labelBackgroundColor=default;" edge="1" parent="1" source="12" target="27">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="510" y="570" as="sourcePoint"/>
+                        <mxPoint x="760" y="570" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="・テストステロンの増加" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="760" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="endArrow=classic;html=1;fontColor=#000000;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="25" target="29">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="940" y="490" as="sourcePoint"/>
+                        <mxPoint x="990" y="440" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1120" y="710"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="・睡眠時間の短縮" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="920" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="・フェロモンの増加" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="800" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="・ポルノ視聴によるドーパミンの過剰分泌の抑制" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="840" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="33" target="24">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="980" y="870" as="sourcePoint"/>
+                        <mxPoint x="1030" y="820" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1210" y="650"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;" edge="1" parent="1" source="13" target="31">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="630" y="770" as="sourcePoint"/>
+                        <mxPoint x="680" y="720" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="670" y="780"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="・時間の節約" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="880" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="・射精機能と精子の質の低下" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="680" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="37" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="360" y="690" as="sourcePoint"/>
+                        <mxPoint x="410" y="640" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="510"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="・早漏化への可能性（逆に早漏が改善する可能性もあり）" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="720" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="8" target="55">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="130" y="660" as="sourcePoint"/>
+                        <mxPoint x="180" y="610" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="190" y="670"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="・睡眠時間の短縮" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="800" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;shape=link;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;" edge="1" parent="1" source="57" target="31">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="520" y="920" as="sourcePoint"/>
+                        <mxPoint x="620" y="900" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" value="・フェロモンの減少" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="520" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="59" target="32">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="930" y="540" as="sourcePoint"/>
+                        <mxPoint x="1250" y="570" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1220" y="750"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;labelBackgroundColor=default;" edge="1" parent="1" source="37" target="13">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="590" y="690" as="sourcePoint"/>
+                        <mxPoint x="640" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" value="・前立腺がんの可能性の向上" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="760" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="63" target="9">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="270" y="840" as="sourcePoint"/>
+                        <mxPoint x="320" y="790" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="110" y="650"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="31" target="27">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1070" y="910" as="sourcePoint"/>
+                        <mxPoint x="1120" y="860" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1270" y="800"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="57" target="12">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="920" as="sourcePoint"/>
+                        <mxPoint x="280" y="870" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="220" y="770"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="91" value="v" style="group;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="1120" y="360" width="166" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="" style="group" vertex="1" connectable="0" parent="91">
+                    <mxGeometry width="166" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="95">
+                    <mxGeometry width="166" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="70">
+                    <mxGeometry width="166" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;span style=&quot;&quot;&gt;作用&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="71">
+                    <mxGeometry width="83" height="57" as="geometry">
+                        <mxRectangle width="83" height="57" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="72" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="71">
+                    <mxGeometry x="83" width="83" height="57" as="geometry">
+                        <mxRectangle width="83" height="57" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="70">
+                    <mxGeometry y="57" width="166" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="作用・反作用" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="75">
+                    <mxGeometry width="83" height="56" as="geometry">
+                        <mxRectangle width="83" height="56" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="76" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="75">
+                    <mxGeometry x="83" width="83" height="56" as="geometry">
+                        <mxRectangle width="83" height="56" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="70">
+                    <mxGeometry y="113" width="166" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="イコール" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="79">
+                    <mxGeometry width="83" height="57" as="geometry">
+                        <mxRectangle width="83" height="57" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;labelBackgroundColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="79">
+                    <mxGeometry x="83" width="83" height="57" as="geometry">
+                        <mxRectangle width="83" height="57" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;labelBackgroundColor=none;" edge="1" parent="95">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="90" y="30" as="sourcePoint"/>
+                        <mxPoint x="160" y="30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontSize=11;fontColor=#000000;curved=1;entryX=0.964;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="95" target="75">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="90" y="84.5" as="sourcePoint"/>
+                        <mxPoint x="140" y="84.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="96" value="" style="endArrow=none;html=1;labelBackgroundColor=none;fontSize=11;fontColor=#000000;curved=1;shape=link;entryX=0.964;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="95" target="79">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="91" y="145" as="sourcePoint"/>
+                        <mxPoint x="160" y="142" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="112" value="オナニーのメリット" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=16;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="360" y="280" width="310" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="オナニーのデメリット" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=16;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="680" y="280" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="オナ禁のデメリット" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=16;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="360" y="640" width="310" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="オナ禁のメリット" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="680" y="640" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="161" value="&lt;h1&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Note&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;・オナニー = 高頻度の射精、オナ禁 = 低頻度の射精とも言える。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;・オナニーでなくともセックスにおいても射精することには変わりないので、そこは切り分けて考える必要がある。&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;・最適解 = 適度にセックス&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;　・ではそれが出来ない場合にどうするか？&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="1120" y="560" width="240" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="162" value="" style="endArrow=classic;html=1;fontSize=11;fontColor=#000000;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;" edge="1" parent="1" source="4" target="27">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="705" y="370" as="sourcePoint"/>
+                        <mxPoint x="705" y="590" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="680" y="430"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

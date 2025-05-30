@@ -1,0 +1,72 @@
+```plantuml
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam package {
+    style rectangle
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+package "オナニーのメリット・デメリット" {
+    package "オナニーのメリット" {
+        class "性機能の維持と向上" as mm1
+        class "精子の質の維持と向上" as mm2
+        class "精漿の生成能率の維持" as mm3
+        class "早漏への対策と改善" as mm4
+        class "前立腺がんへの予防" as mm5
+        class "リラックス効果" as mm6
+        class "楽しみの一つになる" as mm7
+    }
+    package "オナニーでデメリット" {
+        package "精漿に関するデメリット" {
+            class "精漿の浪費" as mds1
+            class "精漿の生成の増加" as mds2
+        }
+        package "プロラクチンに関して" {
+            class "プロラクチンの分泌"
+            class "俗に言う賢者モードと呼ばれる状態に\n起因する精神的な悪影響"
+        }
+        package "ポルノ視聴に関して" {
+            class "過度なドーパミンの分泌"
+            class "ポルノ依存の可能性"
+            class "性的指向の歪曲"
+        }
+        class "時間の消費"
+    }
+}   
+
+package "オナ禁のメリット・デメリット" {
+    package "オナ禁のメリット" {
+        package "精漿に関するメリット" as nmsp {
+            class "精漿を浪費しない" as nmsp1
+            class "精漿の生成が抑えられる" as nmsp2
+        }
+        class "体の栄養価が低下しない" as nmnt
+        class "睡眠時間を短縮できる" as nmslp
+    }
+}
+
+nmsp1 <--> mds1
+nmsp2 <--> mds2
+nmsp -> nmnt
+nmsp -> nmslp
+
+@enduml
+```

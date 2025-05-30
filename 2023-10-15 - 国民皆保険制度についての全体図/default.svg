@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1128.125px" preserveAspectRatio="none" style="width:4450px;height:1128px;background:#FFFFFF;" version="1.1" viewBox="0 0 4450 1128" width="4450px" zoomAndPan="magnify"><defs/><g><!--MD5=[736d109c98f798d217dbb2cb06a68449]
+cluster 社会保険の種類--><g id="cluster_社会保険の種類"><rect fill="none" height="550" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:3.125;" width="1953.125" x="21.875" y="559.375"/><text fill="#000000" font-family="Meiryo" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="262.5" x="867.1875" y="605.3772">社会保険の種類</text></g><!--MD5=[615035def048311d5f396ddaa97f7db0]
+cluster 社会保険 ※狭義--><g id="cluster_社会保険 ※狭義"><rect fill="none" height="334.375" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:3.125;" width="1181.25" x="718.75" y="700"/><text fill="#000000" font-family="Meiryo" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="275" x="1171.875" y="746.0022">社会保険 ※狭義</text></g><!--MD5=[a825ff19f6d557dcaabb817efcf9e337]
+cluster 労働保険--><g id="cluster_労働保険"><rect fill="none" height="253.125" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:3.125;" width="546.875" x="96.875" y="740.625"/><text fill="#000000" font-family="Meiryo" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="150" x="295.3125" y="786.6272">労働保険</text></g><!--MD5=[7de42f27ff9aa966a52941219a695a7b]
+cluster 主要運営主体（業界によっては組合は多岐に渡る）--><g id="cluster_主要運営主体（業界によっては組合は多岐に渡る）"><rect fill="none" height="390.625" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:3.125;" width="2381.25" x="2050" y="671.875"/><text fill="#000000" font-family="Meiryo" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="862.5" x="2809.375" y="717.8772">主要運営主体（業界によっては組合は多岐に渡る）</text></g><!--MD5=[e71eab98cab0c4cd85cc12443afbd044]
+class kenkouhoken--><g id="elem_kenkouhoken"><rect codeLine="32" fill="#FFFFFF" height="87.5" id="kenkouhoken" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="168.75" x="1681.25" y="856.25"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="150" x="1690.625" y="911.6272">健康保険</text></g><!--MD5=[e45f99617c7ff39fc4cb25faaaf4b484]
+class kaigohoken--><g id="elem_kaigohoken"><rect codeLine="33" fill="#FFFFFF" height="87.5" id="kaigohoken" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="168.75" x="1403.125" y="856.25"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="150" x="1412.5" y="911.6272">介護保険</text></g><!--MD5=[07413c54fff6b29c96837d73c1fff9ae]
+class kouseinenkinhoken--><g id="elem_kouseinenkinhoken"><rect codeLine="34" fill="#FFFFFF" height="168.75" id="kouseinenkinhoken" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="525" x="768.75" y="815.625"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="225" x="918.75" y="871.0022">厚生年金保険</text><line style="stroke:#000000;stroke-width:1.5625;" x1="771.875" x2="1290.625" y1="903.125" y2="903.125"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="487.5" x="787.5" y="955.3772">国民年金に上乗せされる年金</text></g><!--MD5=[7a8f4d72bf47b8d13f40ec8ab3d79de7]
+class rousaihoken--><g id="elem_rousaihoken"><rect codeLine="39" fill="#FFFFFF" height="87.5" id="rousaihoken" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="168.75" x="425" y="856.25"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="150" x="434.375" y="911.6272">労災保険</text></g><!--MD5=[8e907d827e498805eb717bdf1f2c0c57]
+class koyouhoken--><g id="elem_koyouhoken"><rect codeLine="40" fill="#FFFFFF" height="87.5" id="koyouhoken" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="168.75" x="146.875" y="856.25"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="150" x="156.25" y="911.6272">雇用保険</text></g><!--MD5=[65ec500f037235c451e736bc9e6cafc5]
+class kenkouhokenkumiai--><g id="elem_kenkouhokenkumiai"><rect codeLine="48" fill="#FFFFFF" height="225" id="kenkouhokenkumiai" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="765.625" x="2792.1875" y="787.5"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="450" x="2950" y="842.8772">健康保険組合（組合健保）</text><line style="stroke:#000000;stroke-width:1.5625;" x1="2795.3125" x2="3554.6875" y1="875" y2="875"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="728.125" x="2810.9375" y="927.2522">常時 700 名以上の従業員を抱える大企業が</text><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="562.5" x="2810.9375" y="983.5022">独自に設立した各保険組合の総称</text></g><!--MD5=[9f34e3404a26b08586ce71d7fdf1c1d4]
+class zenkokukenkouhokenkyoukai--><g id="elem_zenkokukenkouhokenkyoukai"><rect codeLine="52" fill="#FFFFFF" height="168.75" id="zenkokukenkouhokenkyoukai" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="581.25" x="2100" y="815.625"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="562.5" x="2109.375" y="871.0022">全国健康保険協会（協会けんぽ）</text><line style="stroke:#000000;stroke-width:1.5625;" x1="2103.125" x2="2678.125" y1="903.125" y2="903.125"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="375" x="2118.75" y="955.3772">中小企業を対象に加入</text></g><!--MD5=[aa0d4f39034ed98152edeaaab94ee520]
+class zititai--><g id="elem_zititai"><rect codeLine="55" fill="#FFFFFF" height="168.75" id="zititai" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="712.5" x="3668.75" y="815.625"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="112.5" x="3968.75" y="871.0022">自治体</text><line style="stroke:#000000;stroke-width:1.5625;" x1="3671.875" x2="4378.125" y1="903.125" y2="903.125"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="675" x="3687.5" y="955.3772">都道府県及び市区町村の各自治体が運営</text></g><!--MD5=[e3ca58927ec0117116e4d75fb22e0a74]
+class kokuminkaihoken--><g id="elem_kokuminkaihoken"><rect codeLine="23" fill="#FFFFFF" height="225" id="kokuminkaihoken" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="1162.5" x="1421.875" y="21.875"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="262.5" x="1871.875" y="77.2522">国民皆保険制度</text><line style="stroke:#000000;stroke-width:1.5625;" x1="1425" x2="2581.25" y1="109.375" y2="109.375"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="1125" x="1440.625" y="161.6272">全日本国民を対象に加入が義務付けられている公的な強制保険制度</text><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="637.5" x="1440.625" y="217.8772">（生活保護受給者などの例外はあり）</text></g><!--MD5=[1064f8f9b56631cf59590e91a798916d]
+class syakaihoken--><g id="elem_syakaihoken"><rect codeLine="27" fill="#FFFFFF" height="168.75" id="syakaihoken" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="1050" x="1100" y="340.625"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="487.5" x="1381.25" y="396.0022">社会保険（健康保険）※広義</text><line style="stroke:#000000;stroke-width:1.5625;" x1="1103.125" x2="2146.875" y1="428.125" y2="428.125"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="1012.5" x="1118.75" y="480.3772">正規社員及び一定の条件を満たした非正規社員を対象とする</text></g><!--MD5=[385a14452539ab7574c00b1845be899b]
+class kokuminkenkouhoken--><g id="elem_kokuminkenkouhoken"><rect codeLine="43" fill="#FFFFFF" height="87.5" id="kokuminkenkouhoken" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="243.75" x="3081.25" y="381.25"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="225" x="3090.625" y="436.6272">国民健康保険</text></g><!--MD5=[4aeddec1514409f232a43bdc8d10ac0d]
+link kokuminkaihoken to syakaihoken--><g id="link_kokuminkaihoken_syakaihoken"><path codeLine="61" d="M1856.9375,247.4375 C1820.2813,275 1781.375,304.2813 1746.0938,330.8125 " fill="none" id="kokuminkaihoken-to-syakaihoken" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1733.2813,340.4375,1763.2655,333.4941,1745.7598,331.034,1748.2199,313.5283,1733.2813,340.4375" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[594c10c2c328a3edb8445ef283b11a26]
+link syakaihoken to kenkouhoken--><g id="link_syakaihoken_kenkouhoken"><path codeLine="62" d="M1649.5,509.7813 C1677.8125,604.2188 1723.7188,757.2188 1748.5,839.75 " fill="none" id="syakaihoken-to-kenkouhoken" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1753.1563,855.2813,1757.1141,824.7591,1748.6992,840.3054,1733.1528,831.8905,1753.1563,855.2813" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[6511b70e2ea6b30a99adae63faa35551]
+link syakaihoken to kaigohoken--><g id="link_syakaihoken_kaigohoken"><path codeLine="63" d="M1601.0625,509.7813 C1573.3438,604.2188 1528.4688,757.2188 1504.25,839.75 " fill="none" id="syakaihoken-to-kaigohoken" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1499.6875,855.2813,1519.5625,831.7813,1504.0625,840.2813,1495.5625,824.7813,1499.6875,855.2813" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[bcebad5f66376ffeeaa433cf0775bbe9]
+link syakaihoken to kouseinenkinhoken--><g id="link_syakaihoken_kouseinenkinhoken"><path codeLine="64" d="M1389.875,509.8125 C1376,517.4063 1362.5938,525.5938 1350,534.375 C1246.0313,606.9063 1153.6563,720.25 1095.4688,800.9063 " fill="none" id="syakaihoken-to-kouseinenkinhoken" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1085.7188,814.5312,1112.217,798.8752,1094.7837,801.8046,1091.8543,784.3713,1085.7188,814.5312" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[e01aa4ffee8702df4f31de7d75a2fb7b]
+link syakaihoken to rousaihoken--><g id="link_syakaihoken_rousaihoken"><path codeLine="65" d="M1099.2813,449.9063 C937.6875,465.125 784.9375,490.8438 718.75,534.375 C608.875,606.6563 549.7188,757.8438 524.5,840.2813 " fill="none" id="syakaihoken-to-rousaihoken" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="519.875,855.8125,539.8975,832.438,524.3443,840.8403,515.942,825.2871,519.875,855.8125" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[ad08a7b79c6724cafeb0a9da3eb12ce3]
+link syakaihoken to koyouhoken--><g id="link_syakaihoken_koyouhoken"><path codeLine="66" d="M1099.1875,446.5312 C782.2188,462.125 428.4375,489.3438 368.75,534.375 C271.9375,607.4063 243.2812,757.2188 234.8125,839.5312 " fill="none" id="syakaihoken-to-koyouhoken" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="233.2813,856.0313,248.3041,829.169,234.712,840.4719,223.4091,826.8798,233.2813,856.0313" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[8af5d0cb9b955f0286d45c75a4e510af]
+link kokuminkaihoken to kokuminkenkouhoken--><g id="link_kokuminkaihoken_kokuminkenkouhoken"><path codeLine="68" d="M2465.375,247.0313 C2679.4063,297.75 2918.1875,354.3437 3064.5313,389.0313 " fill="none" id="kokuminkaihoken-to-kokuminkenkouhoken" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="3080.1563,392.75,3055.6297,374.1566,3064.9443,389.1812,3049.9197,398.4958,3080.1563,392.75" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[60ab4dea9dc73b7ad1ca3178f06f0bab]
+link syakaihoken to kenkouhokenkumiai--><g id="link_syakaihoken_kenkouhokenkumiai"><path codeLine="70" d="M2151.1875,449 C2385.0938,464.25 2631.3438,490.2812 2737.5,534.375 C2865.5625,587.5625 2984.9063,691.6563 3066.5,774.6875 " fill="none" id="syakaihoken-to-kenkouhokenkumiai" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="3078.25,786.7813,3067.6087,757.9017,3067.3588,775.5776,3049.6829,775.3276,3078.25,786.7813" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[ced478ea7ed60cbde524062b92a6c61b]
+link syakaihoken to zenkokukenkouhokenkyoukai--><g id="link_syakaihoken_zenkokukenkouhokenkyoukai"><path codeLine="71" d="M1850.875,509.6563 C1867.75,517.5 1884.3125,525.75 1900,534.375 C2041.2188,612 2187.9063,725.4063 2283.6563,804.6563 " fill="none" id="syakaihoken-to-zenkokukenkouhokenkyoukai" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2296.25,815.125,2282.5251,787.577,2284.2028,805.1749,2266.6049,806.8526,2296.25,815.125" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[e45343e5fefc69297ebc5f80e0b7a2a4]
+link kokuminkenkouhoken to zititai--><g id="link_kokuminkenkouhoken_zititai"><path codeLine="72" d="M3325.9063,444.625 C3410.1875,459.5625 3522.6563,486.75 3612.5,534.375 C3742.5625,603.3125 3865.7813,720.9688 3943.125,803.5 " fill="none" id="kokuminkenkouhoken-to-zititai" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="3954.1875,815.4063,3944.2489,786.2774,3943.5709,803.9421,3925.9062,803.264,3954.1875,815.4063" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[ec3dbf60e89587b858101252f7885466]
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+
+class "国民皆保険制度" as kokuminkaihoken {
+    全日本国民を対象に加入が義務付けられている公的な強制保険制度
+    （生活保護受給者などの例外はあり）
+}
+    class "社会保険（健康保険）※広義" as syakaihoken {
+        正規社員及び一定の条件を満たした非正規社員を対象とする
+    }
+        package "社会保険の種類" <<Rectangle>> {
+            package "社会保険 ※狭義" <<Rectangle>> {
+                class "健康保険" as kenkouhoken
+                class "介護保険" as kaigohoken
+                class "厚生年金保険" as kouseinenkinhoken {
+                    国民年金に上乗せされる年金
+                }
+            }
+            package "労働保険" <<Rectangle>> {
+                class "労災保険" as rousaihoken
+                class "雇用保険" as koyouhoken
+            }
+        }
+class "国民健康保険" as kokuminkenkouhoken {
+    
+}
+
+package "主要運営主体（業界によっては組合は多岐に渡る）" <<Rectangle>> {
+    class "健康保険組合（組合健保）" as kenkouhokenkumiai {
+        常時 700 名以上の従業員を抱える大企業が
+        独自に設立した各保険組合の総称
+    }
+    class "全国健康保険協会（協会けんぽ）" as zenkokukenkouhokenkyoukai {
+        中小企業を対象に加入
+    }
+    class "自治体" as zititai {
+        都道府県及び市区町村の各自治体が運営
+    }
+}
+
+
+kokuminkaihoken - -> syakaihoken
+    syakaihoken - -> kenkouhoken
+    syakaihoken - -> kaigohoken
+    syakaihoken - -> kouseinenkinhoken
+    syakaihoken - -> rousaihoken
+    syakaihoken - -> koyouhoken
+
+kokuminkaihoken - -> kokuminkenkouhoken
+
+syakaihoken - -> kenkouhokenkumiai
+syakaihoken - -> zenkokukenkouhokenkyoukai
+kokuminkenkouhoken - -> zititai
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 02:01:30 JST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: MS932
+Language: ja
+Country: JP
+--></g></svg>

@@ -1,0 +1,66 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+skinparam class {
+    backGroundColor white
+}
+
+class "楽天ポイント" as rakutenpoint
+
+class "PayPay ポイント" as paypaypoint
+
+class "Vポイント" as vpoint
+class "WAONポイント" as waonpoint
+
+class "エポスポイント" as epospoint
+
+class "メルカリポイント" as mercaripoint
+class "メルカードの支払い" as paymercard
+
+class "Amazon ギフト + ポイント" as amazongiftandpoint
+
+class "JRE POINT" as jrepoint
+
+class "Suica" as suica
+
+class "Oki Doki ポイント" as okidoki
+
+class "キャッシュバック" as cashback
+
+class "Ponta ポイント" as pontapoint
+class "au Pay プリペイドカード" as aupayprepaidcard
+
+
+epospoint --> amazongiftandpoint
+
+mercaripoint --> paymercard
+
+vpoint --> waonpoint
+
+jrepoint --> suica
+
+okidoki --> cashback
+
+pontapoint --> aupayprepaidcard
+aupayprepaidcard -> amazongiftandpoint
+
+
+@enduml

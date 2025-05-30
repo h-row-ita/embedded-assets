@@ -1,0 +1,43 @@
+```plantuml
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam package {
+    style rectangle
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "Movies" as movies
+class "TV Shows" as tv_shows
+class "Watchlist" as watchlist
+class "TV Show Tracking" as tv_show_tracking
+class "with Mayu" as with_mayu
+class "In Progress & Soon" as in_progress_and_soon
+
+movies --> watchlist
+movies --> with_mayu
+tv_shows --> tv_show_tracking
+tv_show_tracking --> watchlist
+tv_show_tracking --> with_mayu
+watchlist --> in_progress_and_soon
+
+
+@enduml
+```

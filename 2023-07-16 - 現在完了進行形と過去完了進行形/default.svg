@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="過去完了進行形" transform="matrix(1,0,0,1,-352.318,-153.086)">
+        <g transform="matrix(1,0,0,1,59.8908,350.943)">
+            <path d="M363.71,102.465L363.71,150.038L363.71,124.422L821.144,120.631" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,48.9124,350.943)">
+            <path d="M832.122,102.465L832.122,150.038" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,278.581,196.092)">
+            <text x="590.451px" y="248.44px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Now</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-178.853,196.092)">
+            <text x="587.445px" y="248.44px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Since</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-64.4945,270.013)">
+            <text x="593.454px" y="248.44px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">For</text>
+        </g>
+        <g transform="matrix(0.766645,0,0,1,190.73,358.262)">
+            <path d="M319.267,142.307L319.267,150.038L303.754,138.145L319.267,126.252L319.267,133.982L586.575,133.982L586.575,126.252L602.088,138.145L586.575,150.038L586.575,142.307L319.267,142.307Z" style="fill:rgb(235,235,235);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-153.175,50.6691)">
+        <text x="375.072px" y="200.881px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:22.315px;">過去完了進行形</text>
+    </g>
+    <g id="現在完了進行形" transform="matrix(1,0,0,1,-340,-88.2353)">
+        <g transform="matrix(1,0,0,1,47.5731,97.8907)">
+            <path d="M363.71,102.465L363.71,150.038L363.71,124.422L821.144,120.631" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,36.5947,97.8907)">
+            <path d="M832.122,102.465L832.122,150.038" style="fill:none;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,266.263,-56.9605)">
+            <text x="590.451px" y="248.44px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Now</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-191.171,-56.9605)">
+            <text x="587.445px" y="248.44px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">Since</text>
+        </g>
+        <g transform="matrix(1,0,0,1,37.5461,16.9607)">
+            <text x="593.454px" y="248.44px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">For</text>
+        </g>
+        <g transform="matrix(1.53329,0,0,1,-54.4592,105.21)">
+            <path d="M311.51,142.307L311.51,150.038L303.754,138.145L311.51,126.252L311.51,133.982L594.331,133.982L594.331,126.252L602.088,138.145L594.331,150.038L594.331,142.307L311.51,142.307Z" style="fill:rgb(235,235,235);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-153.175,-137.532)">
+        <text x="375.072px" y="200.881px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:22.315px;">現在完了進行形</text>
+    </g>
+</svg>

@@ -1,0 +1,151 @@
+classDiagram
+    ________________音楽ビジネス________________
+    ____顧客____
+    顧客 --> YouTube_1
+    顧客 --> ニコニコ動画
+    顧客 --> TikTok
+    顧客 --> Pixiv
+    顧客 --> Twitter_1
+    顧客 --> ふりーむ
+    顧客 --> ココナラ_1
+    顧客 --> ココナラ_2
+    ____動画プラットフォーム____
+    YouTube_1 --> Pixiv
+    YouTube_1 --> WordPress_1
+    YouTube_1 --> Twitter_1
+    YouTube_1 --> BOOTH
+    YouTube_1 --> Google_Adsense
+    ニコニコ動画 --> YouTube_1
+    ニコニコ動画 --> Twitter_1
+    ニコニコ動画 --> Pixiv
+    ニコニコ動画 --> BOOTH
+    TikTok --> YouTube_1
+    TikTok --> Twitter_1
+    ____画像プラットフォーム____
+    Pixiv --> YouTube_1
+    Pixiv --> Twitter_1
+    Pixiv --> BOOTH
+    ____Webサイト____
+    WordPress_1 --> YouTube_1
+    WordPress_1 --> Pixiv
+    WordPress_1 --> WordPress_2
+    WordPress_1 --> Twitter_1
+    WordPress_1 --> 連絡
+    ____SNS____
+    Twitter_1 --> YouTube_1
+    Twitter_1 --> Pixiv
+    Twitter_1 --> WordPress_1
+    Twitter_1 --> 連絡
+    ____募集プラットフォーム____
+    ふりーむ --> WordPress_1
+    ふりーむ --> Twitter_1
+    ココナラ_1 --> SMBC2 : 入金
+    ココナラ_2 --> SMBC2 : 入金
+    ____販売プラットフォーム____
+    BOOTH --> SMBC2 : 入金
+    ________________ブログビジネス________________
+    ____顧客____
+    顧客 --> WordPress_2
+    顧客 --> Twitter_2
+    ____Webサイト____
+    WordPress_2 --> Twitter_2
+    WordPress_2 --> YouTube_1
+    WordPress_2 --> Google_Adsense
+    ____SNS____
+    Twitter_2 --> WordPress_2
+    ________________オナ禁ビジネス________________
+    ____顧客____
+    顧客 --> Note
+    顧客 --> Amazon_3
+    顧客 --> Twitter_3
+    ____Webサイト____
+    Note --> Twitter_3
+    Note --> SMBC2
+    Note --> Amazon_3
+    ____SNS____
+    Twitter_3 --> Note
+    Twitter_3 --> Amazon_3
+    ____販売プラットフォーム____
+    Amazon_3 --> SMBC2
+    ________________全般________________
+    連絡 --> SMBC2 : 入金
+    Google_Adsense --> SMBC2 : 入金
+    ___________________________________________________________________
+    ____動画プラットフォーム____
+    YouTube_1 : Category [音楽ビジネス]
+    YouTube_1 : Use [楽曲を中心とした動画投稿]
+    YouTube_1 : Objective [広告+誘導]
+    YouTube_1 : Name (H-Row Music Channel)
+    ニコニコ動画 : Category [音楽ビジネス]
+    ニコニコ動画 : Use [VOCALOID楽曲を中心とした動画投稿]
+    ニコニコ動画 : Objective [誘導]
+    ニコニコ動画 : Name (H-Row)
+    TikTok : Category [音楽ビジネス]
+    TikTok : Use [楽曲ダイジェクトを中心とした動画投稿]
+    TikTok : Objective [誘導]
+    TikTok : Name (H-Row)
+    ____画像プラットフォーム____
+    Pixiv : Category [音楽ビジネス]
+    Pixiv : Use [創作関連のイラスト等の投稿]
+    Pixiv : Objective [誘導]
+    Pixiv : Name (H-Row)
+    ____Webサイト____
+    WordPress_1 : Category [音楽ビジネス]
+    WordPress_1 : Use [音楽用ポートフォリオ]
+    WordPress_1 : Objective [依頼+誘導]
+    WordPress_1 : Name (H-Row Music Portfolio)
+    WordPress_2 : Category [ブログビジネス]
+    WordPress_2 : Use [ライフハック・IT等の記事の投稿]
+    WordPress_2 : Objective [広告+誘導]
+    WordPress_2 : Name ()
+    Note : Category [オナ禁]
+    Note : Use [オナ禁関連の記事の投稿]
+    Note : Objective [販売]
+    Note : Name ()
+    ____SNS____
+    Twitter_1 : Category [音楽ビジネス]
+    Twitter_1 : Use [活動報告+簡易ポートフォリオ]
+    Twitter_1 : Objective [依頼+誘導]
+    Twitter_1 : Name (H-Row)
+    Twitter_2 : Category [ブログビジネス]
+    Twitter_2 : Use [ライフハック・IT記事の共有等]
+    Twitter_2 : Objective [誘導]
+    Twitter_2 : Name ()
+    Twitter_3 : Category [オナ禁ビジネス]
+    Twitter_3 : Use [オナ禁関連のbot]
+    Twitter_3 : Objective [誘導]
+    Twitter_3 : Name ()
+    ____募集プラットフォーム____
+    ふりーむ : Category [音楽ビジネス]
+    ふりーむ : Use [音楽制作の募集]
+    ふりーむ : Objective [誘導]
+    ふりーむ : Name (H-Row)
+    ココナラ_1 : Category [音楽ビジネス]
+    ココナラ_1 : Use [音楽制作の募集]
+    ココナラ_1 : Objective [依頼]
+    ココナラ_1 : Name ()
+    ココナラ_2 : Category [音楽ビジネス]
+    ココナラ_2 : Use [画像制作の募集]
+    ココナラ_2 : Objective [依頼]
+    ココナラ_2 : Name ()
+    ____販売プラットフォーム____
+    BOOTH : Category [音楽ビジネス]
+    BOOTH : Use [楽曲等の販売]
+    BOOTH : Objective [販売]
+    BOOTH : Name ()
+    Amazon_3 : Category [オナ禁ビジネス]
+    Amazon_3 : Use [オナ禁関連の書籍の販売]
+    Amazon_3 : Objective [販売]
+    Amazon_3 : Name ()
+    ____その他____
+    ___________________________________________________________________
+    ________メモ________
+    ____Explanation____
+        Category
+        Use
+        Objective
+            依頼
+            販売
+            広告
+            誘導
+        Name 

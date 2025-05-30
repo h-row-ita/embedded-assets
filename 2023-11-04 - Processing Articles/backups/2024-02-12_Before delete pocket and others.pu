@@ -1,0 +1,44 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+    
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "Articles" as articles
+class "Raindrop" as raindrop
+class "Dynalist" as dynalist
+class "Dynawrite" as dynawrite
+class "Coda" as coda
+class "Instapaper" as instapaper
+class "Pocket" as pocket
+
+articles --> raindrop : Browser Extension \n & \n Smartphone Share
+articles --> instapaper : Smartphone Share
+articles --> dynawrite : Smartphone Share
+articles --> dynalist : Browser Extension
+articles --> pocket : Smartphone Share
+dynawrite --> dynalist : Auto
+instapaper --> raindrop : IFTTT
+pocket --> coda : IFTTT
+raindrop --> logseq : Manual
+raindrop --> coda : Manual
+dynalist --> coda : Manual
+dynalist --> logseq : Manual
+
+@enduml

@@ -1,0 +1,158 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor transparent
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+}
+
+
+class "顧客" as customer {
+}
+
+class "YouTube 1" as youtube1 {
+    Category : 音楽ビジネス
+    Contents : 楽曲を中心とした動画投稿
+    Objective : 広告・誘導
+    Name : H-Row Music Channel
+} 
+
+class "ニコニコ動画" as niconico {
+    Category : 音楽ビジネス
+    Contents : VOCALOID楽曲を中心とした動画投稿
+    Objective : 誘導
+    Name : H-Row
+}
+
+class "TikTok" as tiktok {
+    Category : 音楽ビジネス
+    Contents : 楽曲ダイジェストを中心とした動画投稿
+    Objective : 誘導
+    Name : H-Row
+}
+
+class "Pixiv" as pixiv {
+    Category : 音楽ビジネス
+    Contents : 制作関連のイラスト等の投稿
+    Objective : 誘導
+    Name : H-Row
+}
+
+class "Twitter - H-Row" as twitter1 {
+    Category : 音楽ビジネス
+    Contents : 活動報告・簡易ポートフォリオ
+    Objective : 依頼・誘導
+    Name : H-Row
+}
+
+class "Twitter 2" as twitter2 {
+    Category : ブログビジネス
+    Contents : ライフハック・IT記事の共有等
+    Objective : 誘導
+    Name : 
+}
+
+Class "WordPress 1" as wordpress1 {
+    Category : 音楽ビジネス
+    Contents : 音楽用ポートフォリオ
+    Objective : 依頼・誘導
+    Name : H-Row Music Portfolio
+}
+
+class "WordPress 2" as wordpress2 {
+    Category : ブログビジネス
+    Contents : ライフハック・IT等の記事の投稿
+    Objective : 広告・誘導
+    Name : 
+}
+
+class "BOOTH" as booth {
+    Category : 音楽ビジネス
+    Contents : 楽曲等の販売
+    Objective : 販売
+    Name : 
+}
+
+class "ふりーむ" as freem {
+    Category : 
+    Contents : 
+    Objective : 
+    Name : 
+}
+
+class "連絡" as contact {
+}
+
+class "Google Adsense" as googleadsense {
+}
+
+class "ココナラ 1" as coconala1 {
+    Category : 音楽ビジネス
+    Contents : 音楽制作の募集
+    Objective : 依頼
+    Name : 
+}
+
+class "ココナラ 2" as coconala2 {
+    Category : 音楽ビジネス
+    Contents : 画像制作の募集
+    Objective : 依頼
+    Name : 
+}
+
+class "SMBC2" as smbc2 {
+}
+
+customer --> youtube1
+customer --> niconico
+customer --> tiktok
+customer --> pixiv
+customer --> twitter1
+customer --> twitter2
+customer --> wordpress1
+customer --> wordpress2
+customer --> coconala1
+customer --> coconala2
+customer --> freem
+youtube1 <--> twitter1
+youtube1 <--> wordpress1
+youtube1 --> booth
+youtube1 <--> pixiv
+youtube1 --> googleadsense
+niconico --> youtube1
+niconico --> pixiv
+niconico --> twitter1
+niconico --> booth
+tiktok --> youtube1
+tiktok --> twitter1
+pixiv --> booth
+twitter1 <--> pixiv
+twitter1 <--> wordpress1
+twitter1 --> booth
+twitter1 --> contact
+twitter2 <--> wordpress2
+wordpress1 --> pixiv
+wordpress1 --> contact
+wordpress1 <--> wordpress2
+wordpress2 --> youtube1
+freem --> twitter1
+freem --> wordpress1
+booth --> smbc2 : 入金
+coconala1 --> smbc2 : 入金
+coconala2 --> smbc2 : 入金
+googleadsense --> smbc2 : 入金
+
+
+
+@enduml

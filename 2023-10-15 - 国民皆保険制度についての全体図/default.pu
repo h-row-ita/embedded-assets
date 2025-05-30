@@ -1,0 +1,75 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+
+class "国民皆保険制度" as kokuminkaihoken {
+    全日本国民を対象に加入が義務付けられている公的な強制保険制度
+    （生活保護受給者などの例外はあり）
+}
+    class "社会保険（健康保険）※広義" as syakaihoken {
+        正規社員及び一定の条件を満たした非正規社員を対象とする
+    }
+        package "社会保険の種類" <<Rectangle>> {
+            package "社会保険 ※狭義" <<Rectangle>> {
+                class "健康保険" as kenkouhoken
+                class "介護保険" as kaigohoken
+                class "厚生年金保険" as kouseinenkinhoken {
+                    国民年金に上乗せされる年金
+                }
+            }
+            package "労働保険" <<Rectangle>> {
+                class "労災保険" as rousaihoken
+                class "雇用保険" as koyouhoken
+            }
+        }
+class "国民健康保険" as kokuminkenkouhoken {
+    
+}
+
+package "主要運営主体（業界によっては組合は多岐に渡る）" <<Rectangle>> {
+    class "健康保険組合（組合健保）" as kenkouhokenkumiai {
+        常時 700 名以上の従業員を抱える大企業が
+        独自に設立した各保険組合の総称
+    }
+    class "全国健康保険協会（協会けんぽ）" as zenkokukenkouhokenkyoukai {
+        中小企業を対象に加入
+    }
+    class "自治体" as zititai {
+        都道府県及び市区町村の各自治体が運営
+    }
+}
+
+
+kokuminkaihoken --> syakaihoken
+    syakaihoken --> kenkouhoken
+    syakaihoken --> kaigohoken
+    syakaihoken --> kouseinenkinhoken
+    syakaihoken --> rousaihoken
+    syakaihoken --> koyouhoken
+
+kokuminkaihoken --> kokuminkenkouhoken
+
+syakaihoken --> kenkouhokenkumiai
+syakaihoken --> zenkokukenkouhokenkyoukai
+kokuminkenkouhoken --> zititai
+
+@enduml

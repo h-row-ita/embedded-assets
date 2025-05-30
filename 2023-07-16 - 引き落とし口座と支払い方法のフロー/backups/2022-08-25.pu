@@ -1,0 +1,62 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+skinparam class {
+    backGroundColor white
+}
+
+class "現金" as cash
+class "三井住友銀行 1" as smbc1
+class "三井住友銀行 2" as smbc2
+class "PayPay銀行" as paypaybank
+class "楽天ペイ" as rakutenpay
+class "楽天キャッシュ" as rakutencash
+class "PayPay" as paypay
+class "Suica" as suica 
+class "楽天カード 1" as rakutencard1 
+class "楽天カード 2" as rakutencard2
+class "JCB CARD W" as jcbcardw 
+class "Amazon Prime Mastercard" as amazonprimemastercard
+class "エポスカード" as eposcard
+class "PayPayカード" as paypaycard
+class "PayPal" as paypal
+
+
+smbc1 <--> smbc2
+smbc1 --> rakutencard1
+smbc1 --> rakutencard2
+smbc1 --> jcbcardw
+smbc1 --> amazonprimemastercard
+smbc1 --> eposcard
+cash <--> smbc2
+rakutencard1 --> paypal
+jcbcardw --> paypal
+rakutencard2 --> rakutencash
+rakutencard2 --> rakutenpay
+rakutencard2 --> suica
+smbc2 <--> paypaybank
+paypaybank --> paypaycard
+paypaybank <--> paypay
+rakutencash --> rakutenpay
+paypaycard --> paypay
+
+
+@enduml

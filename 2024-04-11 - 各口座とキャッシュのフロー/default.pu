@@ -1,0 +1,54 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+skinparam class {
+    backGroundColor white
+}
+
+class "現金" as cash
+
+class "三井住友銀行 1" as smbc1
+class "三井住友銀行 2" as smbc2
+
+class "SBIネット銀行" as sbinetbank
+
+class "PayPay銀行" as paypaybank
+
+class "楽天銀行" as rakutenbank
+
+class "GMOコイン" as gmocoin
+
+class "楽天証券" as rakutensec
+
+class "SBI FXトレード" as sbifxtrade
+
+cash <-u-> sbinetbank
+sbinetbank <--> smbc1
+smbc2 -u-> smbc1
+paypaybank --> smbc1
+
+rakutensec <--> sbinetbank
+rakutensec <--> rakutenbank
+
+gmocoin <-> sbinetbank
+sbifxtrade <--> sbinetbank
+
+@enduml

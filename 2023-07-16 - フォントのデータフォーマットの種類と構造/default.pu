@@ -1,0 +1,39 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8LL
+}
+
+package "フォント" <<rectangle>> {
+    package "ビットマップ" <<rectangle>> {
+    }
+    package "スケーラブル" <<rectangle>> {
+        package "ストローク" <<rectangle>> {
+        }
+        package "アウトライン" <<rectangle>> {
+            class "TrueType"
+            class "OpenType" {
+                * TrueType ベース
+                * PostScript ベース
+            }
+        }
+    }
+
+}
+@enduml

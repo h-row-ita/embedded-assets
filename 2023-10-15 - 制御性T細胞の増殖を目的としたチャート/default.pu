@@ -1,0 +1,63 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "Treg" as treg
+class "Foxp3" as foxp3
+class "酪酸" as rakusan
+class "酪酸菌（クロストリジウム菌）" as rakusankin
+class "ケトン体" as ketontai
+class "中鎖脂肪酸" as mct {
+	・MCT オイル
+}
+class "糖質制限" as toushitsu {
+    ・80 ~ 100 g / 1d
+}
+class "ファスティング" as fasting
+class "プロバイオティクス" as probiotics {
+    ・整腸剤
+	　・強ミヤリサン錠
+    ・発酵食品
+    　・納豆
+    　・味噌
+}
+class "プレバイオティクス" as prebiotics {
+    ・水溶性食物繊維
+    　・難消化性デキストリン
+    　・もち麦 / 押し麦
+    　・乾燥わかめ
+    　・のり
+    ・ビートオリゴ糖（ラフィノース）
+}
+class "運動" as exercise
+
+treg <-- foxp3
+foxp3 <-- rakusan
+rakusan <-- rakusankin
+rakusan -- ketontai
+rakusankin <-- probiotics
+rakusankin <-- prebiotics
+rakusankin <-- exercise
+ketontai <-- toushitsu
+ketontai <-- mct
+ketontai <-- fasting
+
+@enduml

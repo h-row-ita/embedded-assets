@@ -1,0 +1,55 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "Smartphone Local Data" as smartphonelocaldata
+
+class "Folder Sync" as foldersync
+
+class "Google Drive" as googledrive
+
+class "PC Local Data" as pclocaldata
+
+class "Notion" as notion {
+    Photo Album
+}
+
+class "Amazon Photos" as amazonphotos {
+    Backup
+}
+
+class "Google Photos" as googlephotos {
+    Compression
+}
+
+class "Adobe Express" as adobeexpress {
+    Make a collage
+}
+
+smartphonelocaldata --> foldersync
+foldersync --> googledrive
+googledrive --> pclocaldata
+pclocaldata --> notion
+pclocaldata --> amazonphotos
+pclocaldata <--> googlephotos
+pclocaldata <--> adobeexpress
+
+@enduml

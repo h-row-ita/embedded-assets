@@ -1,0 +1,44 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+    
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "RSS" as rss
+class "YouTube" as youtube
+class "Pocket" as pocket
+class "Instapaper" as instapaper
+class "(Gmail)" as gmail
+class "Dynalist" as dynalist
+class "Notion" as notion
+class "Playlist" as playlist
+class "Logseq" as logseq
+
+rss --> pocket : as Candidate
+rss --> instapaper : as Task
+rss --> notion : as Topic
+instapaper --> gmail
+gmail --> dynalist
+youtube --> playlist : as Candidate
+youtube --> instapaper : as Task
+pocket --> logseq : as Reference
+playlist --> logseq : as Reference
+dynalist --> logseq : as Reference
+
+@enduml

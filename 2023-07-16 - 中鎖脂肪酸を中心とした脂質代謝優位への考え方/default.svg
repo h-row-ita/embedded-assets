@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="537.5px" preserveAspectRatio="none" style="width:1643px;height:537px;background:#FFFFFF;" version="1.1" viewBox="0 0 1643 537" width="1643.75px" zoomAndPan="magnify"><defs/><g><!--MD5=[9806462de28ba8db085c2e9638386fe3]
+class carbon--><rect codeLine="22" fill="#FFFFFF" height="87.5" id="carbon" style="stroke:#000000;stroke-width:4.6875;" width="190.625" x="21.875" y="206.25"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="171.875" x="31.25" y="261.6272">糖質代謝1</text><!--MD5=[fcc05ca2c16c3d2a6d3cc666ef8ac472]
+class fat--><rect codeLine="23" fill="#FFFFFF" height="87.5" id="fat" style="stroke:#000000;stroke-width:4.6875;" width="168.75" x="782.8125" y="21.875"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="150" x="792.1875" y="77.2522">脂質代謝</text><!--MD5=[98076a2f1c5ad5259071e311dc279df9]
+class chusa--><rect codeLine="24" fill="#FFFFFF" height="87.5" id="chusa" style="stroke:#000000;stroke-width:4.6875;" width="487.5" x="398.4375" y="206.25"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="468.75" x="407.8125" y="261.6272">中鎖脂肪酸（MCT オイル）</text><!--MD5=[6448aa4d7c253a891607580a4842a07e]
+class chosa--><rect codeLine="26" fill="#FFFFFF" height="87.5" id="chosa" style="stroke:#000000;stroke-width:4.6875;" width="206.25" x="995.3125" y="206.25"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="187.5" x="1004.6875" y="261.6272">長鎖脂肪酸</text><!--MD5=[2f96868772a937b5cdb172ab2ebb389a]
+class mitochondrion--><rect codeLine="27" fill="#FFFFFF" height="87.5" id="mitochondrion" style="stroke:#000000;stroke-width:4.6875;" width="281.25" x="576.5625" y="431.25"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="262.5" x="585.9375" y="486.6272">ミトコンドリア</text><!--MD5=[e48dd1a8c23ad7c750a99326d55d1400]
+link carbon to mitochondrion--><path codeLine="29" d="M123.9063,293.9063 C131,323.625 145.2813,362.4063 173.4375,384.375 C232.2188,430.25 421.25,452.7188 559.9688,463.25 " fill="none" id="carbon-to-mitochondrion" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="575.7813,464.4063,548.6213,449.9287,560.1962,463.2898,546.835,474.8648,575.7813,464.4063" style="stroke:#000000;stroke-width:3.125;"/><text fill="#000000" font-family="Meiryo" font-size="25" lengthAdjust="spacing" textLength="468.75" x="176.5625" y="370.2515">☓（糖質 10 g 以内に収めることで抑止）</text><!--MD5=[321375ed08c6226da8c40b9b4411f62a]
+link fat to chusa--><path codeLine="30" d="M815,110.0625 C782.625,135.6875 740.7813,168.8125 706.4063,196.0313 " fill="none" id="fat-to-chusa" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="694.0938,205.7812,723.8852,198.0523,706.3209,196.0531,708.3201,178.4888,694.0938,205.7812" style="stroke:#000000;stroke-width:3.125;"/><!--MD5=[71647ee20ffcf10b3fdce344392905ed]
+link fat to chosa--><path codeLine="31" d="M920.8125,110.0625 C954.0938,135.6875 997.0938,168.8125 1032.4375,196.0313 " fill="none" id="fat-to-chosa" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1045.0938,205.7812,1030.432,178.7202,1032.7123,196.2502,1015.1823,198.5305,1045.0938,205.7812" style="stroke:#000000;stroke-width:3.125;"/><!--MD5=[0eab5392f2179003686d35a903e5737e]
+link chusa to mitochondrion--><path codeLine="32" d="M656.2813,294.2813 C668.0313,328.5 684.8438,377.5625 697.8438,415.4375 " fill="none" id="chusa-to-mitochondrion" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="703.1563,430.9062,705.8992,400.251,698.1081,416.1192,682.2399,408.3281,703.1563,430.9062" style="stroke:#000000;stroke-width:3.125;"/><text fill="#000000" font-family="Meiryo" font-size="25" lengthAdjust="spacing" textLength="25" x="692.1875" y="370.2515">○</text><!--MD5=[f928ebd8efc723e77622a4a0ca900a5f]
+link chosa to mitochondrion--><path codeLine="33" d="M1027.625,293.75 C964.0938,330.2188 870.7188,383.7813 802.9688,422.6563 " fill="none" id="chosa-to-mitochondrion" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="788.9063,430.7187,819.5251,427.5962,802.4671,422.957,807.1063,405.8989,788.9063,430.7187" style="stroke:#000000;stroke-width:3.125;"/><text fill="#000000" font-family="Meiryo" font-size="25" lengthAdjust="spacing" textLength="675" x="945.3125" y="370.2515">△（カルニチンが必要だが日本の食文化では摂取が少ない）</text><!--MD5=[8a8260f18ecddf0d4cbc4cecf40953ff]
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "糖質代謝1" as carbon
+class "脂質代謝" as fat
+class "中鎖脂肪酸（MCT オイル）" as chusa { 
+}
+class "長鎖脂肪酸" as chosa
+class "ミトコンドリア" as mitochondrion
+
+carbon - -> mitochondrion : ☓（糖質 10 g 以内に収めることで抑止）
+fat - -> chusa
+fat - -> chosa
+chusa - -> mitochondrion : ○
+chosa - -> mitochondrion : △（カルニチンが必要だが日本の食文化では摂取が少ない）
+
+@enduml
+
+PlantUML version 1.2022.0(Wed Jan 12 01:16:42 JST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: MS932
+Language: ja
+Country: JP
+--></g></svg>

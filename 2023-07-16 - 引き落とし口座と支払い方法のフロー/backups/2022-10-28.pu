@@ -1,0 +1,113 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+skinparam class {
+    backGroundColor white
+}
+
+class "現金" as cash
+
+class "三井住友銀行 1" as smbc1
+class "三井住友銀行 2" as smbc2
+class "PayPay銀行" as paypaybank
+class "楽天銀行" as rakutenbank
+class "SBIネット銀行" as sbinetbank
+class "SBIハイブリッド預金" sbinetbankhybrid
+
+class "SBI証券" as sbisec
+class "楽天証券" as rakutensec
+
+class "楽天カード 1" as rakutencard1 
+class "楽天カード 2" as rakutencard2
+class "JCB CARD W" as jcbcardw 
+class "Amazon Prime Mastercard" as amazonprimemastercard
+class "エポスカード" as eposcard
+class "PayPayカード" as paypaycard
+class "「ビュー・スイカ」カード" as biccamerasuicacard
+
+class "Gaica" as gaica
+class "エポスVisaプリペイドカード" as eposvisaprepaidcard
+class "メルペイ バーチャルカード" as merpayvirtualcard
+
+class "SMBC2 デビットカード" as smbc2debitcard
+class "楽天銀行デビットカード" as rakutenbankdebitcard
+class "PayPay銀行デビットカード" as paypaybankdebitcard
+
+class "楽天ペイ" as rakutenpay
+class "楽天キャッシュ" as rakutencash
+class "PayPay" as paypay
+class "PayPay残高" as paypaycash
+class "Suica" as suica 
+class "PayPal" as paypal
+class "メルペイ" as merpay
+class "Amazon ギフト" as amazongift
+
+class "FamiPay" as famipay
+
+class "楽天ポイント" as rakutenpoint
+class "PayPay ポイント" as paypaypoint
+class "Tポイント" as tpoint
+class "Oki-Doki ポイント" as okidokipoint
+class "エポスポイント" as epospoint
+class "メルカリポイント" as mercaripoint
+class "JRE POINT" as jrepoint
+
+
+smbc1 <--> smbc2
+smbc1 --> rakutencard1
+smbc1 --> rakutencard2
+smbc1 --> jcbcardw
+smbc1 --> amazonprimemastercard
+smbc1 --> eposcard
+smbc1 --> biccamerasuicacard
+smbc2 --> smbc2debitcard
+smbc2 --> gaica
+smbc2 --> famipay
+smbc2debitcard --> amazongift
+rakutensec <--> smbc1
+cash <--> smbc2
+cash <--> rakutenbank
+rakutencard1 --> paypal
+jcbcardw --> paypal
+rakutencard1 --> rakutencash
+biccamerasuicacard --> suica
+smbc2 <--> paypaybank
+paypaybank --> paypaycard
+paypaybank <--> paypaycash
+paypaybank --> paypaybankdebitcard
+rakutencash --> rakutenpay
+paypaycard --> paypaycash
+paypaycash --> paypay
+eposvisaprepaidcard --> amazongift
+merpay --> merpayvirtualcard
+merpayvirtualcard --> amazongift
+rakutenbank --> rakutenbankdebitcard
+
+rakutenpoint --> rakutenpay
+paypaypoint --> paypay
+tpoint --> paypaypoint
+okidokipoint --> jcbcardw
+epospoint --> eposvisaprepaidcard
+mercaripoint --> merpayvirtualcard
+jrepoint --> suica
+
+
+@enduml

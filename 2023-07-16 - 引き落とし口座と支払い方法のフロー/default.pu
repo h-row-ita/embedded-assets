@@ -1,0 +1,109 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+skinparam class {
+    backGroundColor white
+}
+
+class "三井住友銀行" as smbc
+
+class "楽天カード Mastercard" as rakutencardmastercard
+package "楽天ペイ" <<Rectangle>> {
+    class "楽天キャッシュ + ポイント" as rakutencashandpoint
+}
+
+class "楽天カード Visa" as rakutencardvisa
+
+class "PayPayカード Mastercard" as paypaycardmastercard {
+    Visa タッチ決済
+}
+class "PayPayカード JCB" as paypaycardjcb
+class "ファミペイ" as famipay
+class "楽天ギフトカード" as rakutengiftcard
+class "バニラVisaギフトカード" as vvgiftcard
+
+package "PayPay" <<Rectangle>> {
+    class "PayPay 残高 + ポイント" as paypaycashandpoint
+    class "PayPay 後払い" as paypaylater
+}
+
+package "LINE Pay" <<Rectangle>> {
+    class "Visa LINE Pay クレジットカード（P+）" as visalinepaycredit
+}
+
+class "Olive クレジットモード" as olivecreditmode {
+    Visa タッチ決済
+}
+
+class "JCB CARD W" as jcbcardw {
+    Visa タッチ決済
+}
+
+class "Amazon Prime Mastercard" as amazonprimemastercard
+class "エポスゴールドカード" as eposcard
+class "メルカード" as mercard
+class "ビックカメラSuicaカード" as biccamerasuicacard
+class "ウエルシアカード" as welciacard
+class "DMM JCBカード" as dmmjcbcard
+
+class "Starbucks Cards" as starbuckscards
+class "Suica" as suica
+class "PayPal" as paypal
+
+
+
+smbc -u-> visalinepaycredit
+
+smbc --> rakutencardvisa
+smbc --> rakutencardmastercard
+
+smbc --> paypaycardmastercard
+paypaycardmastercard --> paypaylater
+paypaycardmastercard --> paypaycashandpoint
+
+smbc --> paypaycardjcb
+paypaycardjcb --> famipay
+famipay --> rakutengiftcard
+
+rakutengiftcard --> rakutencashandpoint
+rakutencardmastercard --> rakutencashandpoint
+
+famipay --> vvgiftcard
+vvgiftcard --> suica
+
+smbc -> olivecreditmode
+
+smbc -u-> biccamerasuicacard
+biccamerasuicacard -u-> suica
+
+smbc -u-> amazonprimemastercard
+amazonprimemastercard --> paypal
+
+smbc ---> jcbcardw
+jcbcardw --> starbuckscards
+
+smbc -u> eposcard
+
+smbc --> mercard
+smbc -> welciacard
+smbc --> dmmjcbcard
+
+@enduml

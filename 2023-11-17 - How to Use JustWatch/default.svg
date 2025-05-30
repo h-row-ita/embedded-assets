@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="634.375px" preserveAspectRatio="none" style="width:696px;height:634px;background:#FFFFFF;" version="1.1" viewBox="0 0 696 634" width="696.875px" zoomAndPan="magnify"><defs/><g><!--MD5=[831b95ed6b6afb56be700ed0874a4e07]
+class movies--><g id="elem_movies"><rect codeLine="25" fill="#FFFFFF" height="78.418" id="movies" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="137.5" x="104.6875" y="193.75"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="118.75" x="114.0625" y="248.3032">Movies</text></g><!--MD5=[7e73c01de44788d0ac099441325e18bb]
+class tv_shows--><g id="elem_tv_shows"><rect codeLine="26" fill="#FFFFFF" height="78.418" id="tv_shows" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="190.625" x="418.75" y="21.875"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="171.875" x="428.125" y="76.4282">TV Shows</text></g><!--MD5=[90bb25f6e648dc641af2bbaf38c8c83e]
+class watchlist--><g id="elem_watchlist"><rect codeLine="27" fill="#FFFFFF" height="78.418" id="watchlist" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="175" x="110.9375" y="365.625"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="156.25" x="120.3125" y="420.1782">Watchlist</text></g><!--MD5=[ccdfde767fa146d3b0d861ba45215295]
+class tv_show_tracking--><g id="elem_tv_show_tracking"><rect codeLine="28" fill="#FFFFFF" height="78.418" id="tv_show_tracking" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="325" x="351.5625" y="193.75"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="306.25" x="360.9375" y="248.3032">TV Show Tracking</text></g><!--MD5=[b872de40af76e7d9381b26dc7e8a6b55]
+class with_mayu--><g id="elem_with_mayu"><rect codeLine="29" fill="#FFFFFF" height="78.418" id="with_mayu" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="184.375" x="409.375" y="365.625"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="165.625" x="418.75" y="420.1782">with Mayu</text></g><!--MD5=[ad40a5002a7881f83bd36ce7d1a0652f]
+class in_progress_and_soon--><g id="elem_in_progress_and_soon"><rect codeLine="30" fill="#FFFFFF" height="78.418" id="in_progress_and_soon" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="353.125" x="21.875" y="537.5"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="334.375" x="31.25" y="592.0532">In Progress &amp; Soon</text></g><!--MD5=[3faee400641dbc469b1d85404a410597]
+link movies to watchlist--><g id="link_movies_watchlist"><path codeLine="32" d="M178.875,271.875 C182.2188,294.125 186.5938,323.125 190.375,348.0625 " fill="none" id="movies-to-watchlist" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="192.8438,364.5625,201.025,334.8921,190.5216,349.111,176.3026,338.6076,192.8438,364.5625" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[50949b62c9f9b0b20d6d90243980d0e5]
+link movies to with_mayu--><g id="link_movies_with_mayu"><path codeLine="33" d="M242.2188,270.6563 C292.375,295.9688 360.7188,330.4688 414.6563,357.6875 " fill="none" id="movies-to-with_mayu" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="429.4688,365.1563,410.0249,341.2983,415.5293,358.0971,398.7304,363.6015,429.4688,365.1563" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[b48473114c6e55d58f19c62b3fa8164e]
+link tv_shows to tv_show_tracking--><g id="link_tv_shows_tv_show_tracking"><path codeLine="34" d="M514.0625,100 C514.0625,122.25 514.0625,151.25 514.0625,176.1875 " fill="none" id="tv_shows-to-tv_show_tracking" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="514.0625,192.6875,526.5625,164.5625,514.0625,177.0625,501.5625,164.5625,514.0625,192.6875" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[5f9cd43deed75eb1f6b250d286e095a2]
+link tv_show_tracking to watchlist--><g id="link_tv_show_tracking_watchlist"><path codeLine="35" d="M445.5625,271.875 C397.5313,297.0938 332.9688,330.9688 281.9063,357.75 " fill="none" id="tv_show_tracking-to-watchlist" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="267.875,365.125,298.591,363.1773,281.7231,357.8882,287.0122,341.0204,267.875,365.125" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[0764028f17a338e943dbb4a6725e173e]
+link tv_show_tracking to with_mayu--><g id="link_tv_show_tracking_with_mayu"><path codeLine="36" d="M511.3438,271.875 C509.6563,294.125 507.4687,323.125 505.5938,348.0625 " fill="none" id="tv_show_tracking-to-with_mayu" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="504.3437,364.5625,518.8987,337.4439,505.5046,348.9807,493.9678,335.5866,504.3437,364.5625" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[4ef0cf890c57e297da6d2fe355f0be62]
+link watchlist to in_progress_and_soon--><g id="link_watchlist_in_progress_and_soon"><path codeLine="37" d="M198.4375,443.75 C198.4375,466 198.4375,495 198.4375,519.9375 " fill="none" id="watchlist-to-in_progress_and_soon" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="198.4375,536.4375,210.9375,508.3125,198.4375,520.8125,185.9375,508.3125,198.4375,536.4375" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[54e6843d6a0f413c267f722589789469]
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam package {
+    style rectangle
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "Movies" as movies
+class "TV Shows" as tv_shows
+class "Watchlist" as watchlist
+class "TV Show Tracking" as tv_show_tracking
+class "with Mayu" as with_mayu
+class "In Progress & Soon" as in_progress_and_soon
+
+movies - -> watchlist
+movies - -> with_mayu
+tv_shows - -> tv_show_tracking
+tv_show_tracking - -> watchlist
+tv_show_tracking - -> with_mayu
+watchlist - -> in_progress_and_soon
+
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 02:01:30 JST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: MS932
+Language: en
+Country: US
+--></g></svg>

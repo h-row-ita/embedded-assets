@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1459.375px" preserveAspectRatio="none" style="width:4096px;height:1459px;background:#FFFFFF;" version="1.1" viewBox="0 0 4096 1459" width="4096.875px" zoomAndPan="magnify"><defs/><g><!--MD5=[8021c1cac5821f0dde48676120e8a00d]
+cluster 楽天ペイ--><g id="cluster_楽天ペイ"><rect fill="none" height="234.375" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:3.125;" width="575" x="2531.25" y="1078.125"/><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="162.5" x="2737.5" y="1123.3032">楽天ペイ</text></g><!--MD5=[a5657debf227f99cd35548848f42c65a]
+cluster PayPay--><g id="cluster_PayPay"><rect fill="none" height="234.375" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:3.125;" width="896.875" x="3181.25" y="1078.125"/><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="131.25" x="3564.0625" y="1123.3032">PayPay</text></g><!--MD5=[6cb95336cfa12a60b99ac759783a69f3]
+cluster LINE Pay--><g id="cluster_LINE Pay"><rect fill="none" height="406.25" rx="7.8125" ry="7.8125" style="stroke:#181818;stroke-width:3.125;" width="1353.125" x="21.875" y="493.75"/><text fill="#000000" font-family="sans-serif" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="153.125" x="621.875" y="538.9282">LINE Pay</text></g><!--MD5=[e0dacf14802ddbe7a32757dd9aa4f824]
+class rakutencashandpoint--><g id="elem_rakutencashandpoint"><rect codeLine="41" fill="#FFFFFF" height="78.418" id="rakutencashandpoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="471.875" x="2582.8125" y="1184.375"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="453.125" x="2592.1875" y="1238.9282">楽天キャッシュ + ポイント</text></g><!--MD5=[81b18d9885cb172279ba44fd0a23ae42]
+class paypaycashandpoint--><g id="elem_paypaycashandpoint"><rect codeLine="46" fill="#FFFFFF" height="78.418" id="paypaycashandpoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="418.75" x="3609.375" y="1184.375"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="400" x="3618.75" y="1238.9282">PayPay 残高 + ポイント</text></g><!--MD5=[51ff35fd1262c19c6d10f975d960ca1d]
+class paypaylater--><g id="elem_paypaylater"><rect codeLine="47" fill="#FFFFFF" height="78.418" id="paypaylater" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="265.625" x="3232.8125" y="1184.375"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="246.875" x="3242.1875" y="1238.9282">PayPay 後払い</text></g><!--MD5=[44454fc8526ab113b7b2456db929dc05]
+class visalinepaycredit--><g id="elem_visalinepaycredit"><rect codeLine="52" fill="#FFFFFF" height="78.418" id="visalinepaycredit" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="690.625" x="632.8125" y="600"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="671.875" x="642.1875" y="654.5532">Visa LINE Pay クレジットカード（P+）</text></g><!--MD5=[07a2ec8c81e97b3d2d89ed0f921bad7c]
+class linepaycashandpoint--><g id="elem_linepaycashandpoint"><rect codeLine="53" fill="#FFFFFF" height="78.418" id="linepaycashandpoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="450" x="71.875" y="600"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="431.25" x="81.25" y="654.5532">LINE Pay 残高 + ポイント</text></g><!--MD5=[9478ca40f921e5c10f810d8b26570b79]
+class visalinepayprepaid--><g id="elem_visalinepayprepaid"><rect codeLine="54" fill="#FFFFFF" height="78.418" id="visalinepayprepaid" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="568.75" x="71.875" y="771.875"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="550" x="81.25" y="826.4282">Visa LINE Pay プリペイドカード</text></g><!--MD5=[dd7b11bb499b5be07566d73d936c2bdb]
+class smbc1--><g id="elem_smbc1"><rect codeLine="25" fill="#FFFFFF" height="78.418" id="smbc1" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="275" x="1990.625" y="771.875"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="256.25" x="2000" y="826.4282">三井住友銀行 1</text></g><!--MD5=[db3fd9f82153560f56f644f9076f1d91]
+class cash--><g id="elem_cash"><rect codeLine="27" fill="#FFFFFF" height="78.418" id="cash" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="93.75" x="546.875" y="950"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="75" x="556.25" y="1004.5532">現金</text></g><!--MD5=[d576aa48ba476601746fad0c7ae0dfc0]
+class smbc2--><g id="elem_smbc2"><rect codeLine="28" fill="#FFFFFF" height="78.418" id="smbc2" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="275" x="668.75" y="1184.375"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="256.25" x="678.125" y="1238.9282">三井住友銀行 2</text></g><!--MD5=[157832785230001d7dc9f10807175bca]
+class smbc2debitcard--><g id="elem_smbc2debitcard"><rect codeLine="29" fill="#FFFFFF" height="78.418" id="smbc2debitcard" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="418.75" x="596.875" y="1362.5"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="400" x="606.25" y="1417.0532">SMBC2 デビットカード</text></g><!--MD5=[9b727f9d95bd93416590ce244b36e8cf]
+class sbinetbank--><g id="elem_sbinetbank"><rect codeLine="32" fill="#FFFFFF" height="78.418" id="sbinetbank" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="265.625" x="1860.9375" y="193.75"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="246.875" x="1870.3125" y="248.3032">SBIネット銀行</text></g><!--MD5=[bdddddd88eb903f7097906aafa690ddf]
+class sbihybrid--><g id="elem_sbihybrid"><rect codeLine="33" fill="#FFFFFF" height="78.418" id="sbihybrid" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="378.125" x="1626.5625" y="365.625"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="359.375" x="1635.9375" y="420.1782">SBIハイブリッド銀行</text></g><!--MD5=[a149b474d2df68b331fdbe85891d6f5d]
+class sbisec--><g id="elem_sbisec"><rect codeLine="35" fill="#FFFFFF" height="78.418" id="sbisec" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="153.125" x="1917.1875" y="600"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="134.375" x="1926.5625" y="654.5532">SBI証券</text></g><!--MD5=[4d37d5f633b9e9f5f143f5cc979b0d07]
+class bitflyer--><g id="elem_bitflyer"><rect codeLine="36" fill="#FFFFFF" height="78.418" id="bitflyer" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="140.625" x="1923.4375" y="21.875"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="121.875" x="1932.8125" y="76.4282">bitFlyer</text></g><!--MD5=[da1488b30706422234c8a4be80db2127]
+class linefx--><g id="elem_linefx"><rect codeLine="37" fill="#FFFFFF" height="78.418" id="linefx" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="156.25" x="2181.25" y="600"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="137.5" x="2190.625" y="654.5532">LINE FX</text></g><!--MD5=[80e3fdadd3fead7961dd1fb1b29e471d]
+class rakutencard1--><g id="elem_rakutencard1"><rect codeLine="39" fill="#FFFFFF" height="78.418" id="rakutencard1" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="237.5" x="2571.875" y="950"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="218.75" x="2581.25" y="1004.5532">楽天カード 1</text></g><!--MD5=[fc060893b9082b88c37ef1dd423ad6c7]
+class paypaycard--><g id="elem_paypaycard"><rect codeLine="44" fill="#FFFFFF" height="78.418" id="paypaycard" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="256.25" x="2918.75" y="950"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="237.5" x="2928.125" y="1004.5532">PayPayカード</text></g><!--MD5=[d754ea99e24c2717f8e62474098ec7fd]
+class tpoint--><g id="elem_tpoint"><rect codeLine="57" fill="#FFFFFF" height="78.418" id="tpoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="190.625" x="2207.8125" y="21.875"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="171.875" x="2217.1875" y="76.4282">Tポイント</text></g><!--MD5=[900fd288465920fde540215d96c78c1d]
+class jcbcardw--><g id="elem_jcbcardw"><rect codeLine="59" fill="#FFFFFF" height="78.418" id="jcbcardw" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="250" x="3284.375" y="950"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="231.25" x="3293.75" y="1004.5532">JCB CARD W</text></g><!--MD5=[2878fadeb73033d444cd48cbc9d6a5d7]
+class okidokipoint--><g id="elem_okidokipoint"><rect codeLine="60" fill="#FFFFFF" height="78.418" id="okidokipoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="325" x="3246.875" y="771.875"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="306.25" x="3256.25" y="826.4282">Oki-Doki ポイント</text></g><!--MD5=[f9649c11dda40e4f562e9eeeeb6a5920]
+class amazonprimemastercard--><g id="elem_amazonprimemastercard"><rect codeLine="62" fill="#FFFFFF" height="78.418" id="amazonprimemastercard" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="468.75" x="971.875" y="950"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="450" x="981.25" y="1004.5532">Amazon Prime Mastercard</text></g><!--MD5=[8bc2243fc903261e4539af2607acb98c]
+class eposcard--><g id="elem_eposcard"><rect codeLine="63" fill="#FFFFFF" height="78.418" id="eposcard" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="243.75" x="1550" y="950"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="225" x="1559.375" y="1004.5532">エポスカード</text></g><!--MD5=[ec0671e4750fce17e9d9ab1c7f19c759]
+class viewsuicacard--><g id="elem_viewsuicacard"><rect codeLine="65" fill="#FFFFFF" height="78.418" id="viewsuicacard" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="337.5" x="2125" y="950"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="318.75" x="2134.375" y="1004.5532">VIEW Suica カード</text></g><!--MD5=[61a54558521916a6fe658194d7b0a41a]
+class suica--><g id="elem_suica"><rect codeLine="66" fill="#FFFFFF" height="78.418" id="suica" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="115.625" x="2107.8125" y="1184.375"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="96.875" x="2117.1875" y="1238.9282">Suica</text></g><!--MD5=[ac9bda3e7830116e1c7a66187b03f33f]
+class jrepoint--><g id="elem_jrepoint"><rect codeLine="67" fill="#FFFFFF" height="78.418" id="jrepoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="212.5" x="1784.375" y="1184.375"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="193.75" x="1793.75" y="1238.9282">JRE POINT</text></g><!--MD5=[c135589f0520d1b8fa96e6575ad035cb]
+class paypal--><g id="elem_paypal"><rect codeLine="69" fill="#FFFFFF" height="78.418" id="paypal" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="137.5" x="2334.375" y="1184.375"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="118.75" x="2343.75" y="1238.9282">PayPal</text></g><!--MD5=[b30c8ff86b13b36ad0d987ae0eed82ee]
+class epospoint--><g id="elem_epospoint"><rect codeLine="71" fill="#FFFFFF" height="78.418" id="epospoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="281.25" x="2237.5" y="193.75"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="262.5" x="2246.875" y="248.3032">エポスポイント</text></g><!--MD5=[c90b526b819f09a6e65366593c440363]
+class mercaripoint--><g id="elem_mercaripoint"><rect codeLine="73" fill="#FFFFFF" height="78.418" id="mercaripoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="318.75" x="2575" y="21.875"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="300" x="2584.375" y="76.4282">メルカリポイント</text></g><!--MD5=[2cb3b1e4a2f86fde65b38324106eba4f]
+class merpayvirtualcard--><g id="elem_merpayvirtualcard"><rect codeLine="74" fill="#FFFFFF" height="78.418" id="merpayvirtualcard" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="478.125" x="2629.6875" y="193.75"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="459.375" x="2639.0625" y="248.3032">メルペイ バーチャルカード</text></g><!--MD5=[acbc76b2e01b5fd1ba483381f5ab32e5]
+class merpay--><g id="elem_merpay"><rect codeLine="75" fill="#FFFFFF" height="78.418" id="merpay" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="168.75" x="3003.125" y="21.875"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="150" x="3012.5" y="76.4282">メルペイ</text></g><!--MD5=[d2dd9c09e02cf2a3110e5018cd7dbad3]
+class vpoint--><g id="elem_vpoint"><rect codeLine="77" fill="#FFFFFF" height="78.418" id="vpoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="190.625" x="3314.0625" y="21.875"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="171.875" x="3323.4375" y="76.4282">Vポイント</text></g><!--MD5=[678457d87bf04fb62562b2daf901f156]
+class vpointvisacard--><g id="elem_vpointvisacard"><rect codeLine="78" fill="#FFFFFF" height="78.418" id="vpointvisacard" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="381.25" x="3218.75" y="193.75"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="362.5" x="3228.125" y="248.3032">VポイントVISAカード</text></g><!--MD5=[ecd5b9a56bf28675e379368045d76650]
+class amazongiftandpoint--><g id="elem_amazongiftandpoint"><rect codeLine="80" fill="#FFFFFF" height="78.418" id="amazongiftandpoint" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="468.75" x="2634.375" y="365.625"/><text fill="#000000" font-family="sans-serif" font-size="37.5" lengthAdjust="spacing" textLength="450" x="2643.75" y="420.1782">Amazon ギフト + ポイント</text></g><!--MD5=[abdc67187757674f4596cea2316128c9]
+link smbc1 to smbc2--><g id="link_smbc1_smbc2"><path codeLine="82" d="M2080.75,862.125 C2028.8438,911.8125 1940.8125,987.6875 1850,1028.125 C1829.6875,1037.1875 1246.1563,1141.9063 960.6563,1192.8438 " fill="none" id="smbc1-smbc2" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="944.7813,1195.6875,974.6775,1203.0006,960.1585,1192.916,970.2431,1178.397,944.7813,1195.6875" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2093.1563,850.0937,2064.2767,860.735,2081.9526,860.985,2081.7026,878.6609,2093.1563,850.0937" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[b26a8ea2981ad85955dd246074e20b21]
+link smbc2 to smbc2debitcard--><g id="link_smbc2_smbc2debitcard"><path codeLine="84" d="M806.25,1263 C806.25,1287.1563 806.25,1319.2188 806.25,1346.0938 " fill="none" id="smbc2-to-smbc2debitcard" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="806.25,1362.0313,818.75,1333.9063,806.25,1346.4063,793.75,1333.9063,806.25,1362.0313" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[7f3a2e3323417f99d59c9f6ec7f3a858]
+link cash to smbc2--><g id="link_cash_smbc2"><path codeLine="85" d="M638.5938,1040.3125 C674.5,1078.875 724.6875,1132.75 760.7813,1171.5 " fill="none" id="cash-smbc2" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="771.5,1183,761.5048,1153.8905,760.8611,1171.5565,743.1951,1170.9128,771.5,1183" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="627.9063,1028.8438,637.9623,1057.9323,638.5691,1040.265,656.2363,1040.8718,627.9063,1028.8438" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[7b07638b6051569c2186c160ab821fb8]
+link sbisec to smbc1--><g id="link_sbisec_smbc1"><path codeLine="87" d="M2033.875,691.625 C2050.9375,712.6563 2070.7813,737.1563 2087.875,758.1875 " fill="none" id="sbisec-smbc1" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2098.0938,770.8125,2090.0598,741.1019,2088.2407,758.6857,2070.6569,756.8667,2098.0938,770.8125" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2022.9063,678.125,2030.9402,707.8356,2032.7593,690.2518,2050.3431,692.0708,2022.9063,678.125" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[d019178e11c96b4b4a14296202d85f7c]
+link sbinetbank to sbisec--><g id="link_sbinetbank_sbisec"><path codeLine="88" d="M2026.25,286.4062 C2039.2813,309.5625 2052.7813,337.9687 2059.375,365.625 C2077.625,442.0625 2046.1563,530.5313 2020.8125,584.8437 " fill="none" id="sbinetbank-sbisec" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2013.875,599.2188,2037.3557,579.3209,2020.6655,585.1464,2014.84,568.4562,2013.875,599.2188" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2018.25,272.7187,2021.687,303.3039,2026.1507,286.1991,2043.2556,290.6628,2018.25,272.7187" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[212a124d0f08cb8380810cfe849f536d]
+link sbihybrid to sbisec--><g id="link_sbihybrid_sbisec"><path codeLine="89" d="M1854.0625,457.0313 C1883.875,495.2188 1925.0313,547.9063 1954.9375,586.2187 " fill="none" id="sbihybrid-sbisec" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1964.625,598.625,1957.2024,568.7558,1955.0229,586.2986,1937.4801,584.1191,1964.625,598.625" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1844.25,444.4688,1851.7925,474.3079,1853.9015,456.7565,1871.4529,458.8656,1844.25,444.4688" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[703a855b23858e76f9c46aa56609a58d]
+link sbinetbank to sbihybrid--><g id="link_sbinetbank_sbihybrid"><path codeLine="90" d="M1943.5625,282.5938 C1920.0313,304.4688 1892,330.5312 1868.1875,352.6875 " fill="none" id="sbinetbank-sbihybrid" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1855.4375,364.5625,1884.547,354.5673,1866.881,353.9236,1867.5247,336.2576,1855.4375,364.5625" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1955.0938,271.875,1925.9649,281.8136,1943.6296,282.4916,1942.9515,300.1563,1955.0938,271.875" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[b8c224db28eb97c5eb472786e9285594]
+link bitflyer to sbinetbank--><g id="link_bitflyer_sbinetbank"><path codeLine="91" d="M1993.75,116.3438 C1993.75,135.3438 1993.75,156.8125 1993.75,175.9375 " fill="none" id="bitflyer-sbinetbank" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1993.75,192.6875,2006.25,164.5625,1993.75,177.0625,1981.25,164.5625,1993.75,192.6875" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1993.75,100,1981.25,128.125,1993.75,115.625,2006.25,128.125,1993.75,100" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[2ae441cdf6253697ed1bf36be8343b3c]
+link linefx to smbc1--><g id="link_linefx_smbc1"><path codeLine="93" d="M2220.1875,691.625 C2203.5313,712.6563 2184.125,737.1563 2167.4375,758.1875 " fill="none" id="linefx-smbc1" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2157.4688,770.8125,2184.7293,756.5251,2167.1695,758.5636,2165.131,741.0039,2157.4688,770.8125" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2230.9063,678.125,2203.6138,692.3513,2221.1781,690.3522,2223.1773,707.9164,2230.9063,678.125" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[ac33e396e1d64f779a6cf421d32052a2]
+link smbc2 to linepaycashandpoint--><g id="link_smbc2_linepaycashandpoint"><path codeLine="95" d="M808.125,1183.4375 C810.375,1099.0313 803.7812,889.875 693.75,771.875 C652.625,727.7813 596.3438,698.625 539.0625,679.4063 " fill="none" id="smbc2-to-linepaycashandpoint" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="522.9063,674.25,545.9147,694.692,537.7951,678.9894,553.4978,670.8698,522.9063,674.25" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[a5e3c7cf22ac26bc94771f3217c96975]
+reverse link visalinepaycredit to smbc1--><g id="link_visalinepaycredit_smbc1"><path codeLine="96" d="M1244.2813,680.5313 C1477.4063,714.0938 1806.8438,761.5313 1990.5938,788 " fill="none" id="visalinepaycredit-backto-smbc1" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1227.6563,678.125,1253.711,694.5084,1243.1215,680.3534,1257.2765,669.7639,1227.6563,678.125" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[71b51e1196fe51fe6d512c7d331f28ca]
+link linepaycashandpoint to visalinepayprepaid--><g id="link_linepaycashandpoint_visalinepayprepaid"><path codeLine="97" d="M309.75,678.125 C317.9063,700.8125 328.5313,730.5 337.5938,755.75 " fill="none" id="linepaycashandpoint-to-visalinepayprepaid" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="342.9688,770.8125,345.2397,740.1187,337.6937,756.1049,321.7075,748.5588,342.9688,770.8125" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[82c6db51e656c56133af7a91ddb3ed63]
+link smbc1 to rakutencard1--><g id="link_smbc1_rakutencard1"><path codeLine="99" d="M2246.0313,850.0937 C2336.7813,877.8125 2462.2813,916.1562 2556.7813,945.0312 " fill="none" id="smbc1-to-rakutencard1" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2572.875,949.9688,2549.6655,929.7552,2557.94,945.3768,2542.3184,953.6512,2572.875,949.9688" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[2483e62bdc06a36f6b21f991083e7061]
+link rakutencard1 to paypal--><g id="link_rakutencard1_paypal"><path codeLine="100" d="M2573.4688,1028.2813 C2558.5625,1035.3125 2544.0625,1043.5625 2531.25,1053.125 C2489.3438,1084.4063 2454.25,1132.9063 2431.4688,1169.625 " fill="none" id="rakutencard1-to-paypal" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2423.0625,1183.5625,2448.3206,1165.9757,2431.154,1170.1958,2426.9339,1153.0293,2423.0625,1183.5625" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[cc1c2311008383ab8fa2af6e6c7ea50e]
+link rakutencard1 to rakutencashandpoint--><g id="link_rakutencard1_rakutencashandpoint"><path codeLine="101" d="M2711.2188,1028.8438 C2732.5625,1066.875 2766.125,1126.5938 2790.0625,1169.25 " fill="none" id="rakutencard1-to-rakutencashandpoint" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2797.7813,1183,2794.854,1152.3618,2790.1061,1169.39,2773.078,1164.6421,2797.7813,1183" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[d49b109d921397bdcd82b915ebed4bbb]
+link smbc1 to paypaycard--><g id="link_smbc1_paypaycard"><path codeLine="103" d="M2266.875,839.0625 C2415.1875,865.9063 2657.1875,910.125 2865.625,950 C2877.5938,952.2813 2890,954.6875 2902.4375,957.125 " fill="none" id="smbc1-to-paypaycard" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2918.1875,960.1875,2892.9806,942.5275,2902.8523,957.192,2888.1878,967.0637,2918.1875,960.1875" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[7d68a7eba1b88d4a1ebdd30defad7cf0]
+link paypaycard to paypaylater--><g id="link_paypaycard_paypaylater"><path codeLine="104" d="M3098.0938,1028.8438 C3153.375,1068.4063 3241.5938,1131.5313 3301.4688,1174.4063 " fill="none" id="paypaycard-to-paypaylater" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="3314.5313,1183.75,3298.9811,1157.1896,3301.8409,1174.6344,3284.396,1177.4942,3314.5313,1183.75" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[66fd6cc374de7102d3b4b7ff68921562]
+link smbc1 to jcbcardw--><g id="link_smbc1_jcbcardw"><path codeLine="106" d="M2266.1875,827.6563 C2475.5313,849.0313 2885.5313,893.9063 3231.25,950 C3243.2812,951.9688 3255.75,954.125 3268.25,956.4375 " fill="none" id="smbc1-to-jcbcardw" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="3284.0625,959.4063,3258.7474,941.9017,3268.7092,956.5052,3254.1057,966.467,3284.0625,959.4063" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[1e61cf77576c1ff08505e2d4dee824ae]
+link okidokipoint to jcbcardw--><g id="link_okidokipoint_jcbcardw"><path codeLine="107" d="M3409.375,850.5 C3409.375,874.6563 3409.375,906.7187 3409.375,933.5938 " fill="none" id="okidokipoint-to-jcbcardw" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="3409.375,949.5313,3421.875,921.4063,3409.375,933.9063,3396.875,921.4063,3409.375,949.5313" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[dd02f3518b1cc84a61e119c8899cc1e3]
+link smbc1 to amazonprimemastercard--><g id="link_smbc1_amazonprimemastercard"><path codeLine="109" d="M1990.125,839.7813 C1837.75,868.1875 1590.7812,914.25 1414.7813,947.0625 " fill="none" id="smbc1-to-amazonprimemastercard" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1399.0313,950,1428.9681,957.1448,1414.3927,947.1421,1424.3954,932.5666,1399.0313,950" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[86a86621301a1378748c773ff7d762da]
+link smbc1 to eposcard--><g id="link_smbc1_eposcard"><path codeLine="110" d="M2032.4688,850.0937 C1959.4688,877.5938 1858.7812,915.5313 1782.3438,944.3125 " fill="none" id="smbc1-to-eposcard" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="1767.4063,949.9688,1798.1314,951.7666,1782.0309,944.4677,1789.3298,928.3672,1767.4063,949.9688" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[73faa11ea4fa70d41c67246c94ffaaa6]
+link smbc1 to viewsuicacard--><g id="link_smbc1_viewsuicacard"><path codeLine="112" d="M2163.25,850.5 C2187.8438,876.0313 2220.9375,910.375 2247.6563,938.125 " fill="none" id="smbc1-to-viewsuicacard" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2258.6875,949.5313,2248.163,920.6089,2247.8416,938.2837,2230.1669,937.9623,2258.6875,949.5313" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[c1da5ed420793879678f286eb1a1029c]
+link viewsuicacard to suica--><g id="link_viewsuicacard_suica"><path codeLine="113" d="M2273.1563,1028.8438 C2251.8125,1066.875 2218.25,1126.5938 2194.3125,1169.25 " fill="none" id="viewsuicacard-to-suica" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2186.5938,1183,2211.297,1164.6421,2194.2689,1169.39,2189.521,1152.3618,2186.5938,1183" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[ac3a4592003bfbaafc45939aa6ede51b]
+link jrepoint to suica--><g id="link_jrepoint_suica"><path codeLine="114" d="M1996.9688,1223.4375 C2028.375,1223.4375 2059.8125,1223.4375 2091.2188,1223.4375 " fill="none" id="jrepoint-to-suica" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2107.6563,1223.4375,2079.5313,1210.9375,2092.0313,1223.4375,2079.5313,1235.9375,2107.6563,1223.4375" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[c1082e4b2b33496696e874635d31ec62]
+link epospoint to amazongiftandpoint--><g id="link_epospoint_amazongiftandpoint"><path codeLine="116" d="M2484.5938,271.875 C2561.4688,297.8438 2665.5,332.9375 2745.9063,360.0938 " fill="none" id="epospoint-to-amazongiftandpoint" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2761.6563,365.4063,2739.0024,344.5719,2746.851,360.4117,2731.0112,368.2603,2761.6563,365.4063" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[2bb98733451998148cb3de5b6e54f134]
+link mercaripoint to merpayvirtualcard--><g id="link_mercaripoint_merpayvirtualcard"><path codeLine="118" d="M2763.5313,100 C2782.625,123.5625 2807.8438,154.625 2828.8125,180.4688 " fill="none" id="mercaripoint-to-merpayvirtualcard" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2838.7188,192.6875,2830.6848,162.9769,2828.8657,180.5607,2811.2819,178.7417,2838.7188,192.6875" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[e838ee1e20b96f31f95431c3d52005cb]
+link merpay to merpayvirtualcard--><g id="link_merpay_merpayvirtualcard"><path codeLine="119" d="M3040.0313,100 C3008.0938,124.1875 2965.625,156.3437 2930.9688,182.5625 " fill="none" id="merpay-to-merpayvirtualcard" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2917.625,192.6875,2947.5812,185.6243,2930.0659,183.2342,2932.456,165.7189,2917.625,192.6875" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[c154d8341cfe5fc72306ab795f9bc7f8]
+link merpayvirtualcard to amazongiftandpoint--><g id="link_merpayvirtualcard_amazongiftandpoint"><path codeLine="120" d="M2868.75,271.875 C2868.75,294.125 2868.75,323.125 2868.75,348.0625 " fill="none" id="merpayvirtualcard-to-amazongiftandpoint" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2868.75,364.5625,2881.25,336.4375,2868.75,348.9375,2856.25,336.4375,2868.75,364.5625" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[b69e037d8118c0dcf9cd1f9f33c78513]
+link vpoint to vpointvisacard--><g id="link_vpoint_vpointvisacard"><path codeLine="122" d="M3409.375,100 C3409.375,122.25 3409.375,151.25 3409.375,176.1875 " fill="none" id="vpoint-to-vpointvisacard" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="3409.375,192.6875,3421.875,164.5625,3409.375,177.0625,3396.875,164.5625,3409.375,192.6875" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[0aad9505fb0325cf5ac0973592abe81d]
+link vpointvisacard to amazongiftandpoint--><g id="link_vpointvisacard_amazongiftandpoint"><path codeLine="123" d="M3292.0625,271.875 C3206.625,298.0625 3090.8125,333.5313 3001.9063,360.7812 " fill="none" id="vpointvisacard-to-amazongiftandpoint" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="2986.75,365.4063,3017.3066,369.0887,3001.685,360.8143,3009.9595,345.1927,2986.75,365.4063" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[d67eec0c51112f2ece6ba7285f77296b]
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+skinparam class {
+    backGroundColor white
+}
+
+class "三井住友銀行 1" as smbc1
+
+class "現金" as cash
+class "三井住友銀行 2" as smbc2
+class "SMBC2 デビットカード" as smbc2debitcard
+
+
+class "SBIネット銀行" as sbinetbank
+class "SBIハイブリッド銀行" as sbihybrid
+
+class "SBI証券" as sbisec
+class "bitFlyer" as bitflyer
+class "LINE FX" as linefx
+
+class "楽天カード 1" as rakutencard1 
+package "楽天ペイ" <<Rectangle>> {
+    class "楽天キャッシュ + ポイント" as rakutencashandpoint
+}
+
+class "PayPayカード" as paypaycard
+package "PayPay" <<Rectangle>> {
+    class "PayPay 残高 + ポイント" as paypaycashandpoint
+    class "PayPay 後払い" as paypaylater
+}
+
+
+package "LINE Pay" <<Rectangle>> {
+    class "Visa LINE Pay クレジットカード（P+）" as visalinepaycredit
+    class "LINE Pay 残高 + ポイント" as linepaycashandpoint
+    class "Visa LINE Pay プリペイドカード" as visalinepayprepaid
+}
+
+class "Tポイント" as tpoint
+
+class "JCB CARD W" as jcbcardw 
+class "Oki-Doki ポイント" as okidokipoint
+
+class "Amazon Prime Mastercard" as amazonprimemastercard
+class "エポスカード" as eposcard
+
+class "VIEW Suica カード" as viewsuicacard
+class "Suica" as suica 
+class "JRE POINT" as jrepoint
+
+class "PayPal" as paypal
+
+class "エポスポイント" as epospoint
+
+class "メルカリポイント" as mercaripoint
+class "メルペイ バーチャルカード" as merpayvirtualcard
+class "メルペイ" as merpay
+
+class "Vポイント" as vpoint
+class "VポイントVISAカード" as vpointvisacard
+
+class "Amazon ギフト + ポイント" as amazongiftandpoint
+
+smbc1 <- - -> smbc2
+
+smbc2 - -> smbc2debitcard
+cash <- -> smbc2
+
+sbisec <- -> smbc1
+sbinetbank <- -> sbisec
+sbihybrid <- -> sbisec
+sbinetbank <- -> sbihybrid
+bitflyer <- -> sbinetbank
+
+linefx <- -> smbc1
+
+smbc2 - -> linepaycashandpoint
+visalinepaycredit <- - smbc1
+linepaycashandpoint - -> visalinepayprepaid
+
+smbc1 - -> rakutencard1
+rakutencard1 - -> paypal
+rakutencard1 - -> rakutencashandpoint
+
+smbc1 - -> paypaycard
+paypaycard - -> paypaylater
+
+smbc1 - -> jcbcardw
+okidokipoint - -> jcbcardw
+
+smbc1 - -> amazonprimemastercard
+smbc1 - -> eposcard
+
+smbc1 - -> viewsuicacard
+viewsuicacard - -> suica
+jrepoint -> suica
+
+epospoint - -> amazongiftandpoint
+
+mercaripoint - -> merpayvirtualcard
+merpay - -> merpayvirtualcard
+merpayvirtualcard - -> amazongiftandpoint
+
+vpoint - -> vpointvisacard
+vpointvisacard - -> amazongiftandpoint
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 02:01:30 JST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: MS932
+Language: ja
+Country: JP
+--></g></svg>

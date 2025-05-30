@@ -1,0 +1,40 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+    
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "Web Articles & Videos" as webarticlesandvideos
+class "Instapaper" as instapaper
+class "Notion" as notion
+class "(Gmail)" as gmail
+class "Dynalist" as dynalist
+class "Brave (+ AutoPagerize)" as brave
+class "Google Drive" as googledrive
+class "Local Files (Smartphone)" as localfiles
+
+webarticlesandvideos --> instapaper
+instapaper -> gmail : IFTTT
+gmail --> dynalist : Dynalist Email to Inbox
+dynalist -- notion
+dynalist -> brave : Manual
+brave --> googledrive : mhtml Download
+googledrive --> localfiles : FolderSync
+
+@enduml

@@ -1,0 +1,37 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+    
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "Articles" as articles
+class "Instapaper" as instapaper
+class "Todoist" as todoist
+class "Raindrop" as raindrop
+class "Coda" as coda
+class "Logseq" as coda
+
+articles --> raindrop
+articles --> instapaper
+instapaper --> todoist
+todoist --> raindrop
+todoist --> coda
+todoist --> Logseq
+
+@enduml

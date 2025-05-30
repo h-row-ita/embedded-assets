@@ -1,0 +1,74 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "Dynalist" as dynalist {
+    ノート
+    データベース
+    タスク管理
+    リマインド
+}
+
+class "Obsidian" as obsidian {
+    ノート
+    データベース
+}
+
+class "Google Drive" as googledrive {
+    クラウドストレージ（データの中継）
+}
+
+class "Visual Studio Code" as visualstudiocode {
+    Plant UML の作成と編集
+}
+
+class "XChange" as xchange {
+    PDF の作成と編集
+}
+
+class "Diagrams" as diagrams {
+    表や図形の作成
+}
+
+class "Google Calendar" as googlecalendar {
+    カレンダー
+}
+
+class "Todoist" as todoist {
+    スケジュール管理
+}
+
+class "Google Keep" as googlekeep {
+    スマホ用のメモ
+}
+
+googlecalendar -- dynalist
+googlecalendar -- todoist
+googlekeep -- dynalist
+dynalist -- googledrive
+obsidian -- googledrive
+obsidian -- visualstudiocode
+googledrive -- diagrams
+googledrive -- xchange
+googledrive -- visualstudiocode
+diagrams -- dynalist
+
+
+@enduml

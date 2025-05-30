@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="475px" preserveAspectRatio="none" style="width:1084px;height:475px;background:#FFFFFF;" version="1.1" viewBox="0 0 1084 475" width="1084.375px" zoomAndPan="magnify"><defs/><g><!--MD5=[549b5706af31ee77b0edfa7cd0e67e3b]
+class photodata--><g id="elem_photodata"><rect codeLine="24" fill="#FFFFFF" height="87.5" id="photodata" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="221.875" x="434.375" y="62.5"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="203.125" x="443.75" y="117.8772">Photo Data</text></g><!--MD5=[13fa15820726258c27c1990ab9093a79]
+class photoalbum--><g id="elem_photoalbum"><rect codeLine="25" fill="#FFFFFF" height="168.75" id="photoalbum" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="250" x="223.4375" y="284.375"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="231.25" x="232.8125" y="339.7522">Photo Album</text><line style="stroke:#000000;stroke-width:1.5625;" x1="226.5625" x2="470.3125" y1="371.875" y2="371.875"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="118.75" x="242.1875" y="424.1272">Notion</text></g><!--MD5=[7f0e08b1ea1daf6ec1364500bd16de08]
+class backup--><g id="elem_backup"><rect codeLine="28" fill="#FFFFFF" height="168.75" id="backup" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="318.75" x="582.8125" y="284.375"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="131.25" x="676.5625" y="339.7522">Backup</text><line style="stroke:#000000;stroke-width:1.5625;" x1="585.9375" x2="898.4375" y1="371.875" y2="371.875"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="281.25" x="601.5625" y="424.1272">Amazon Photos</text></g><!--MD5=[bcd21e811861c806e6c7038e54e93c3b]
+class compression--><g id="elem_compression"><rect codeLine="31" fill="#FFFFFF" height="168.75" id="compression" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="296.875" x="765.625" y="21.875"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="234.375" x="796.875" y="77.2522">Compression</text><line style="stroke:#000000;stroke-width:1.5625;" x1="768.75" x2="1059.375" y1="109.375" y2="109.375"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="259.375" x="784.375" y="161.6272">Google Photos</text></g><!--MD5=[c2e9ee4868109e948a827923b128d603]
+class collage--><g id="elem_collage"><rect codeLine="34" fill="#FFFFFF" height="168.75" id="collage" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.5625;" width="303.125" x="21.875" y="21.875"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="268.75" x="39.0625" y="77.2522">Make a collage</text><line style="stroke:#000000;stroke-width:1.5625;" x1="25" x2="321.875" y1="109.375" y2="109.375"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="265.625" x="40.625" y="161.6272">Adobe Express</text></g><!--MD5=[0c105f749cd231a89c7baf81e3fc7e5b]
+link photodata to compression--><g id="link_photodata_compression"><path codeLine="38" d="M673.5625,106.25 C698.75,106.25 723.9688,106.25 749.1563,106.25 " fill="none" id="photodata-compression" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="764.8438,106.25,736.7188,93.75,749.2188,106.25,736.7188,118.75,764.8438,106.25" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="657.6563,106.25,685.7813,118.75,673.2813,106.25,685.7813,93.75,657.6563,106.25" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[e1969fe385a25ac8207695922570a2bb]
+link collage to photodata--><g id="link_collage_photodata"><path codeLine="39" d="M342,106.25 C367.375,106.25 392.75,106.25 418.125,106.25 " fill="none" id="collage-photodata" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="433.9375,106.25,405.8125,93.75,418.3125,106.25,405.8125,118.75,433.9375,106.25" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="325.9688,106.25,354.0938,118.75,341.5938,106.25,354.0938,93.75,325.9688,106.25" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[c30c6456eba3e628e1691dcd97c5cc5b]
+link photodata to photoalbum--><g id="link_photodata_photoalbum"><path codeLine="40" d="M513.6875,150.5313 C488.6563,183.125 452.75,229.875 420.7813,271.4688 " fill="none" id="photodata-to-photoalbum" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="411,284.1875,438.0865,269.5729,420.5526,271.8227,418.3028,254.2888,411,284.1875" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[7a177a6e59958287b3f926752319d201]
+link photodata to backup--><g id="link_photodata_backup"><path codeLine="41" d="M576.9375,150.5313 C601.9688,183.125 637.875,229.875 669.8438,271.4688 " fill="none" id="photodata-to-backup" style="stroke:#000000;stroke-width:3.125;"/><polygon fill="#000000" points="679.625,284.1875,672.3222,254.2888,670.0724,271.8227,652.5385,269.5729,679.625,284.1875" style="stroke:#000000;stroke-width:3.125;"/></g><!--MD5=[ad6182104216d938f608aeebb8f8b51a]
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+
+
+class "Photo Data" as photodata
+class "Photo Album" as photoalbum {
+    Notion
+}
+class "Backup" as backup {
+    Amazon Photos
+}
+class "Compression" as compression {
+    Google Photos
+}
+class "Make a collage" as collage {
+    Adobe Express
+}
+
+photodata <-> compression
+photodata <-u> collage
+photodata - -> photoalbum
+photodata - -> backup
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 02:01:30 JST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: MS932
+Language: en
+Country: US
+--></g></svg>

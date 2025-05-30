@@ -1,0 +1,36 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+class "糖質代謝1" as carbon
+class "脂質代謝" as fat
+class "中鎖脂肪酸（MCT オイル）" as chusa { 
+}
+class "長鎖脂肪酸" as chosa
+class "ミトコンドリア" as mitochondrion
+
+carbon --> mitochondrion : ☓（糖質 10 g 以内に収めることで抑止）
+fat --> chusa
+fat --> chosa
+chusa --> mitochondrion : ○
+chosa --> mitochondrion : △（カルニチンが必要だが日本の食文化では摂取が少ない）
+
+@enduml

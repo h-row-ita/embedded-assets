@@ -1,0 +1,105 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+skinparam class {
+    backGroundColor white
+}
+
+class "財布" as wallet{
+    現金
+}
+
+class "SMBC1" as smbc1 {
+    銀行口座（メイン）
+}
+
+class "SMBC2" as smbc2 {
+    銀行口座
+}
+
+class "楽天銀行" as rakutenbank {
+    銀行口座（使用保留）
+}
+
+class "楽天ペイ" as rakutenpay {
+    電子決済（メイン）
+}
+
+class "楽天キャッシュ" as rakutencash {
+    電子マネー
+}
+
+class "PayPay" as paypay {
+    電子決済
+}
+
+class "Suica" as suica {
+    電子マネー
+}
+
+class "gaica" as gaica {
+    プリペイドカード
+}
+
+class "メルペイ" as merpay {
+    電子マネー
+}
+
+class "Amazon ギフト" as amazongift {
+    電子ギフト
+}
+
+class "楽天証券" as rakutensec {
+    証券口座
+}
+
+class "楽天カード 1" as rakutencard1 {
+    クレジットカード（メイン）
+}
+
+class "JCB CARD W" as jcbcardw {
+    クレジットカード
+}
+
+class "楽天カード 2" as rakutencard2 {
+    クレジットカード（使用保留）
+}
+
+class "PayPal" as paypal {
+    電子決済
+}
+
+
+smbc1 <--> smbc2
+rakutencard1 --> smbc1
+rakutencard1 --> suica
+rakutencard1 --> rakutencash
+jcbcardw --> smbc1
+rakutencard2 --> smbc1
+smbc2 --> gaica
+wallet <--> smbc2
+rakutenpay --> rakutencash
+paypay --> rakutencard1
+merpay --> amazongift
+paypal --> rakutencard1
+
+
+@enduml

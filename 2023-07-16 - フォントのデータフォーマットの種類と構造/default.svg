@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="862.5px" preserveAspectRatio="none" style="width:1737px;height:862px;background:#FFFFFF;" version="1.1" viewBox="0 0 1737 862" width="1737.5px" zoomAndPan="magnify"><defs/><g><!--MD5=[2a9368b174b5704b668e67828a7cee77]
+cluster フォント--><rect fill="#FFFFFF" height="821.875" style="stroke:#000000;stroke-width:4.6875;" width="1696.875" x="21.875" y="24.3103"/><text fill="#000000" font-family="Meiryo" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="150" x="795.3125" y="70.3125">フォント</text><!--MD5=[a94f1d3c04f28408a20049744283c2e8]
+cluster スケーラブル--><rect fill="#FFFFFF" height="606.25" style="stroke:#000000;stroke-width:4.6875;" width="1225" x="418.75" y="164.9353"/><text fill="#000000" font-family="Meiryo" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="225" x="918.75" y="210.9375">スケーラブル</text><!--MD5=[ab247472a5db2dc97c753b69b7ae6660]
+cluster アウトライン--><rect fill="#FFFFFF" height="390.625" style="stroke:#000000;stroke-width:4.6875;" width="790.625" x="778.125" y="305.5603"/><text fill="#000000" font-family="Meiryo" font-size="37.5" font-weight="bold" lengthAdjust="spacing" textLength="225" x="1060.9375" y="351.5625">アウトライン</text><!--MD5=[9f039142baff992e7b6f921540fe6657]
+entity ビットマップ--><rect fill="#FFFFFF" height="118.75" style="stroke:#000000;stroke-width:4.6875;" width="287.5" x="71.875" y="474.3103"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="225" x="103.125" y="545.3125">ビットマップ</text><!--MD5=[53d74bb447b2f8a98588a1bbd4caccd2]
+entity ストローク--><rect fill="#FFFFFF" height="118.75" style="stroke:#000000;stroke-width:4.6875;" width="250" x="468.75" y="474.3103"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="187.5" x="500" y="545.3125">ストローク</text><!--MD5=[e278d77ba6e40eaac075ffeca2a74439]
+class TrueType--><rect codeLine="29" fill="#FFFFFF" height="87.5" id="TrueType" style="stroke:#000000;stroke-width:4.6875;" width="193.75" x="1325" y="489.9353"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="175" x="1334.375" y="545.3125">TrueType</text><!--MD5=[490966b4d3b2300e4052788704859df7]
+class OpenType--><rect codeLine="30" fill="#FFFFFF" height="225" id="OpenType" style="stroke:#000000;stroke-width:4.6875;" width="387.5" x="828.125" y="421.1853"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="184.375" x="929.6875" y="476.5625">OpenType</text><line style="stroke:#000000;stroke-width:4.6875;" x1="831.25" x2="1212.5" y1="508.6853" y2="508.6853"/><ellipse cx="862.5" cy="543.0603" fill="#000000" rx="9.375" ry="9.375" style="stroke:#000000;stroke-width:3.125;"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="300" x="887.5" y="560.9375">TrueType ベース</text><ellipse cx="862.5" cy="599.3103" fill="#000000" rx="9.375" ry="9.375" style="stroke:#000000;stroke-width:3.125;"/><text fill="#000000" font-family="Meiryo" font-size="37.5" lengthAdjust="spacing" textLength="309.375" x="887.5" y="617.1875">PostScript ベース</text><!--MD5=[6b32255dfddfd34e41cba71b4d4ec006]
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+package "フォント" <<rectangle>> {
+    package "ビットマップ" <<rectangle>> {
+    }
+    package "スケーラブル" <<rectangle>> {
+        package "ストローク" <<rectangle>> {
+        }
+        package "アウトライン" <<rectangle>> {
+            class "TrueType"
+            class "OpenType" {
+                * TrueType ベース
+                * PostScript ベース
+            }
+        }
+    }
+
+}
+@enduml
+
+PlantUML version 1.2021.16(Thu Dec 09 02:25:22 JST 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: MS932
+Language: ja
+Country: JP
+--></g></svg>

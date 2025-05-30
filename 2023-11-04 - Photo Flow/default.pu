@@ -1,0 +1,44 @@
+@startuml
+
+hide circle
+hide empty fields
+hide empty methods
+
+skinparam class {
+    backGroundColor white
+    borderColor black
+    arrowColor black
+}
+
+skinparam {
+    shadowing false
+    ranksep 30
+    dpi 300
+    arrowThickness 1
+    defaultFontName Meiryo
+    defaultFontSize 12
+    arrowFontSize 8
+}
+
+
+
+class "Photo Data" as photodata
+class "Photo Album" as photoalbum {
+    Notion
+}
+class "Backup" as backup {
+    Amazon Photos
+}
+class "Compression" as compression {
+    Google Photos
+}
+class "Make a collage" as collage {
+    Adobe Express
+}
+
+photodata <-> compression
+photodata <-u> collage
+photodata --> photoalbum
+photodata --> backup
+
+@enduml
